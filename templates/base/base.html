@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+    <meta name="description" content=""/>
+    <meta name="author" content=""/>
+    <title>AI Tools Analysis</title>
+    <link href="https://cdn.jsdelivr.net/npm/simple-datatables@7.1.2/dist/style.min.css" rel="stylesheet"/>
+    <link href="{% static 'base/css/styles.css' %}" rel="stylesheet"/>
+    <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+</head>
+<body class="sb-nav-fixed">
+<nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
+    <!-- Navbar Brand-->
+    <a class="navbar-brand ps-3" href="index.html">AI Tools Analysis</a>
+    <!-- Sidebar Toggle-->
+    <button class="btn btn-link btn-sm order-1 order-lg-0 me-4 me-lg-0" id="sidebarToggle" href="#!"><i
+            class="fas fa-bars"></i></button>
+</nav>
+<div id="layoutSidenav">
+    <div id="layoutSidenav_nav">
+        <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
+            <div class="sb-sidenav-menu">
+                <div class="nav">
+                    <div class="sb-sidenav-menu-heading">Core</div>
+                    <a class="nav-link" href="{% url 'myDashboard' %}">
+                        <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
+                        Dashboard
+                    </a>
+                    <div class="sb-sidenav-menu-heading">Addons</div>
+                    <a class="nav-link" href="{% url 'charts' %}">
+                        <div class="sb-nav-link-icon"><i class="fas fa-chart-area"></i></div>
+                        Charts
+                    </a>
+                    <a class="nav-link" href="{% url 'recommendationData' %}">
+                        <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
+                        Recommendation
+                    </a>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div id="layoutSidenav_content">
+        <main>
+            {% block content %}
+            {% endblock %}
+        </main>
+        <footer class="py-4 bg-light mt-auto">
+            <div class="container-fluid px-4">
+                <div class="d-flex align-items-center justify-content-between small">
+                    <div class="text-muted">Copyright &copy; Your Website 2023</div>
+                    <div>
+                        <a href="#">Privacy Policy</a>
+                        &middot;
+                        <a href="#">Terms &amp; Conditions</a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+        crossorigin="anonymous"></script>
+<script src="{% static 'base/js/scripts.js' %}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js" crossorigin="anonymous"></script>
+<script src="{% static 'base/assets/demo/chart-area-demo.js' %}"></script>
+<script src="{% static 'base/assets/demo/chart-bar-demo.js' %}"></script>
+<script src="{% static 'base/assets/demo/chart-pie-demo.js' %}"></script>
+<script src="https://cdn.jsdelivr.net/npm/simple-datatables@7.1.2/dist/umd/simple-datatables.min.js"
+        crossorigin="anonymous"></script>
+<script src="{% static 'base/js/datatables-simple-demo.js' %}"></script>
+<script>
+$(document).ready(function () {
+    $('#recommendationForm').submit(function (event) {
+        event.preventDefault();
+        $('#errorMessage').hide();
+
+        var toolName = $('#toolName').val();
+        if (toolName.trim() === '') {
+            $('#errorMessage').text('Tool name cannot be empty').show();
+            return;
+        }
+
+        $.ajax({
+            type: 'POST',
+            url: "{% url 'get_recommendations' %}", // Django URL tag
+            data: {
+                tool_name: toolName,
+                csrfmiddlewaretoken: '{{ csrf_token }}' // Django CSRF token
+            },
+            success: function (data) {
+                $('#recommendationTable tbody').empty();
+
+                // Initialize index for table rows
+                var index = 1;
+
+                // Iterate over each tool in the data
+                $.each(data, function (toolKey, recommendations) {
+                    // recommendations is an array of recommendation objects
+                    $.each(recommendations, function (i, recommendation) {
+                        $('#recommendationTable tbody').append(
+                            `<tr>
+                                <td>${index}</td>
+                                <td>${recommendation.name}</td>
+                                <td>${recommendation.use}</td>
+                            </tr>`
+                        );
+                        index++; // Increment the index for each recommendation
+                    });
+                });
+
+                $('#recommendationTable').show();
+            },
+            error: function (xhr) {
+                var response = JSON.parse(xhr.responseText);
+                $('#errorMessage').text(response.error).show();
+            }
+        });
+    });
+
+    $('#clearButton').click(function () {
+        $('#errorMessage').hide();
+        $('#recommendationTable tbody').empty();
+        $('#recommendationTable').hide();
+        $('#toolName').val('');
+    });
+});
+
+</script>
+</body>

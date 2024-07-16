@@ -1,0 +1,2120 @@
+2023-09-10 12:48:43,805 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-10 12:48:49,121 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 12:48:49,599 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 12:49:13,375 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 12:49:13,556 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 12:49:19,149 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 12:49:19,333 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 12:49:51,383 django.utils.autoreload INFO     C:\pythonCode\python-projects\myshop\home\urls.py changed, reloading.
+2023-09-10 12:49:51,916 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-10 12:49:55,869 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 12:49:56,287 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 12:51:16,479 django.utils.autoreload INFO     C:\pythonCode\python-projects\myshop\home\urls.py changed, reloading.
+2023-09-10 12:51:17,036 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-10 12:51:19,767 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 12:51:20,196 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:16:13,216 django.utils.autoreload INFO     C:\pythonCode\python-projects\myshop\myshop\urls.py changed, reloading.
+2023-09-10 13:16:13,784 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-10 13:26:01,754 django.utils.autoreload INFO     C:\pythonCode\python-projects\myshop\home\models.py changed, reloading.
+2023-09-10 13:26:02,273 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-10 13:26:38,232 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:26:39,023 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:26:47,717 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:26:47,910 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:27:02,023 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:27:02,242 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:27:12,253 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:27:12,471 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:27:45,922 PIL.Image    DEBUG    Importing BlpImagePlugin
+2023-09-10 13:27:45,924 PIL.Image    DEBUG    Importing BmpImagePlugin
+2023-09-10 13:27:45,924 PIL.Image    DEBUG    Importing BufrStubImagePlugin
+2023-09-10 13:27:45,927 PIL.Image    DEBUG    Importing CurImagePlugin
+2023-09-10 13:27:45,928 PIL.Image    DEBUG    Importing DcxImagePlugin
+2023-09-10 13:27:45,929 PIL.Image    DEBUG    Importing DdsImagePlugin
+2023-09-10 13:27:45,930 PIL.Image    DEBUG    Importing EpsImagePlugin
+2023-09-10 13:27:45,949 PIL.Image    DEBUG    Importing FitsImagePlugin
+2023-09-10 13:27:45,950 PIL.Image    DEBUG    Importing FliImagePlugin
+2023-09-10 13:27:45,952 PIL.Image    DEBUG    Importing FpxImagePlugin
+2023-09-10 13:27:45,954 PIL.Image    DEBUG    Image: failed to import FpxImagePlugin: No module named 'olefile'
+2023-09-10 13:27:45,954 PIL.Image    DEBUG    Importing FtexImagePlugin
+2023-09-10 13:27:45,955 PIL.Image    DEBUG    Importing GbrImagePlugin
+2023-09-10 13:27:45,957 PIL.Image    DEBUG    Importing GifImagePlugin
+2023-09-10 13:27:45,957 PIL.Image    DEBUG    Importing GribStubImagePlugin
+2023-09-10 13:27:45,959 PIL.Image    DEBUG    Importing Hdf5StubImagePlugin
+2023-09-10 13:27:45,960 PIL.Image    DEBUG    Importing IcnsImagePlugin
+2023-09-10 13:27:45,964 PIL.Image    DEBUG    Importing IcoImagePlugin
+2023-09-10 13:27:45,966 PIL.Image    DEBUG    Importing ImImagePlugin
+2023-09-10 13:27:45,967 PIL.Image    DEBUG    Importing ImtImagePlugin
+2023-09-10 13:27:45,967 PIL.Image    DEBUG    Importing IptcImagePlugin
+2023-09-10 13:27:45,968 PIL.Image    DEBUG    Importing JpegImagePlugin
+2023-09-10 13:27:45,968 PIL.Image    DEBUG    Importing Jpeg2KImagePlugin
+2023-09-10 13:27:45,968 PIL.Image    DEBUG    Importing McIdasImagePlugin
+2023-09-10 13:27:45,969 PIL.Image    DEBUG    Importing MicImagePlugin
+2023-09-10 13:27:45,970 PIL.Image    DEBUG    Image: failed to import MicImagePlugin: No module named 'olefile'
+2023-09-10 13:27:45,970 PIL.Image    DEBUG    Importing MpegImagePlugin
+2023-09-10 13:27:45,971 PIL.Image    DEBUG    Importing MpoImagePlugin
+2023-09-10 13:27:45,975 PIL.Image    DEBUG    Importing MspImagePlugin
+2023-09-10 13:27:45,977 PIL.Image    DEBUG    Importing PalmImagePlugin
+2023-09-10 13:27:45,979 PIL.Image    DEBUG    Importing PcdImagePlugin
+2023-09-10 13:27:45,980 PIL.Image    DEBUG    Importing PcxImagePlugin
+2023-09-10 13:27:45,980 PIL.Image    DEBUG    Importing PdfImagePlugin
+2023-09-10 13:27:45,986 PIL.Image    DEBUG    Importing PixarImagePlugin
+2023-09-10 13:27:45,988 PIL.Image    DEBUG    Importing PngImagePlugin
+2023-09-10 13:27:45,988 PIL.Image    DEBUG    Importing PpmImagePlugin
+2023-09-10 13:27:45,988 PIL.Image    DEBUG    Importing PsdImagePlugin
+2023-09-10 13:27:45,989 PIL.Image    DEBUG    Importing QoiImagePlugin
+2023-09-10 13:27:45,990 PIL.Image    DEBUG    Importing SgiImagePlugin
+2023-09-10 13:27:45,992 PIL.Image    DEBUG    Importing SpiderImagePlugin
+2023-09-10 13:27:45,996 PIL.Image    DEBUG    Importing SunImagePlugin
+2023-09-10 13:27:45,999 PIL.Image    DEBUG    Importing TgaImagePlugin
+2023-09-10 13:27:46,001 PIL.Image    DEBUG    Importing TiffImagePlugin
+2023-09-10 13:27:46,001 PIL.Image    DEBUG    Importing WebPImagePlugin
+2023-09-10 13:27:46,005 PIL.Image    DEBUG    Importing WmfImagePlugin
+2023-09-10 13:27:46,006 PIL.Image    DEBUG    Importing XbmImagePlugin
+2023-09-10 13:27:46,008 PIL.Image    DEBUG    Importing XpmImagePlugin
+2023-09-10 13:27:46,009 PIL.Image    DEBUG    Importing XVThumbImagePlugin
+2023-09-10 13:28:46,264 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:28:46,491 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:29:28,550 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:29:28,906 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:38:01,903 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-10 13:38:04,831 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:38:05,360 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:38:05,799 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:38:26,972 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:38:27,018 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:38:54,831 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:38:55,080 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:41:33,567 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:41:33,698 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:42:24,129 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:42:24,302 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:43:50,015 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:43:50,274 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:44:02,923 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:44:03,034 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:44:48,802 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 13:44:48,920 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 21:10:48,066 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-10 21:10:53,514 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 21:10:57,544 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 21:10:58,057 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 21:13:12,777 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 21:13:13,155 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 21:13:25,651 django.request WARNING  Not Found: /favicon.ico
+2023-09-10 21:13:25,776 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 07:51:06,991 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-11 07:51:10,698 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 07:51:22,937 django.request WARNING  Not Found: /home/about/images/about.jpg
+2023-09-11 07:51:24,374 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 07:51:24,571 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 07:51:42,442 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 07:51:42,828 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 07:51:58,865 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 07:51:59,226 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 07:52:36,751 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 07:52:36,885 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 07:55:08,095 PIL.Image    DEBUG    Importing BlpImagePlugin
+2023-09-11 07:55:08,098 PIL.Image    DEBUG    Importing BmpImagePlugin
+2023-09-11 07:55:08,099 PIL.Image    DEBUG    Importing BufrStubImagePlugin
+2023-09-11 07:55:08,102 PIL.Image    DEBUG    Importing CurImagePlugin
+2023-09-11 07:55:08,104 PIL.Image    DEBUG    Importing DcxImagePlugin
+2023-09-11 07:55:08,107 PIL.Image    DEBUG    Importing DdsImagePlugin
+2023-09-11 07:55:08,109 PIL.Image    DEBUG    Importing EpsImagePlugin
+2023-09-11 07:55:08,161 PIL.Image    DEBUG    Importing FitsImagePlugin
+2023-09-11 07:55:08,168 PIL.Image    DEBUG    Importing FliImagePlugin
+2023-09-11 07:55:08,171 PIL.Image    DEBUG    Importing FpxImagePlugin
+2023-09-11 07:55:08,176 PIL.Image    DEBUG    Image: failed to import FpxImagePlugin: No module named 'olefile'
+2023-09-11 07:55:08,176 PIL.Image    DEBUG    Importing FtexImagePlugin
+2023-09-11 07:55:08,180 PIL.Image    DEBUG    Importing GbrImagePlugin
+2023-09-11 07:55:08,183 PIL.Image    DEBUG    Importing GifImagePlugin
+2023-09-11 07:55:08,183 PIL.Image    DEBUG    Importing GribStubImagePlugin
+2023-09-11 07:55:08,187 PIL.Image    DEBUG    Importing Hdf5StubImagePlugin
+2023-09-11 07:55:08,190 PIL.Image    DEBUG    Importing IcnsImagePlugin
+2023-09-11 07:55:08,199 PIL.Image    DEBUG    Importing IcoImagePlugin
+2023-09-11 07:55:08,201 PIL.Image    DEBUG    Importing ImImagePlugin
+2023-09-11 07:55:08,204 PIL.Image    DEBUG    Importing ImtImagePlugin
+2023-09-11 07:55:08,204 PIL.Image    DEBUG    Importing IptcImagePlugin
+2023-09-11 07:55:08,214 PIL.Image    DEBUG    Importing JpegImagePlugin
+2023-09-11 07:55:08,214 PIL.Image    DEBUG    Importing Jpeg2KImagePlugin
+2023-09-11 07:55:08,215 PIL.Image    DEBUG    Importing McIdasImagePlugin
+2023-09-11 07:55:08,218 PIL.Image    DEBUG    Importing MicImagePlugin
+2023-09-11 07:55:08,222 PIL.Image    DEBUG    Image: failed to import MicImagePlugin: No module named 'olefile'
+2023-09-11 07:55:08,222 PIL.Image    DEBUG    Importing MpegImagePlugin
+2023-09-11 07:55:08,224 PIL.Image    DEBUG    Importing MpoImagePlugin
+2023-09-11 07:55:08,224 PIL.Image    DEBUG    Importing MspImagePlugin
+2023-09-11 07:55:08,232 PIL.Image    DEBUG    Importing PalmImagePlugin
+2023-09-11 07:55:08,237 PIL.Image    DEBUG    Importing PcdImagePlugin
+2023-09-11 07:55:08,237 PIL.Image    DEBUG    Importing PcxImagePlugin
+2023-09-11 07:55:08,237 PIL.Image    DEBUG    Importing PdfImagePlugin
+2023-09-11 07:55:08,262 PIL.Image    DEBUG    Importing PixarImagePlugin
+2023-09-11 07:55:08,272 PIL.Image    DEBUG    Importing PngImagePlugin
+2023-09-11 07:55:08,272 PIL.Image    DEBUG    Importing PpmImagePlugin
+2023-09-11 07:55:08,272 PIL.Image    DEBUG    Importing PsdImagePlugin
+2023-09-11 07:55:08,278 PIL.Image    DEBUG    Importing QoiImagePlugin
+2023-09-11 07:55:08,278 PIL.Image    DEBUG    Importing SgiImagePlugin
+2023-09-11 07:55:08,278 PIL.Image    DEBUG    Importing SpiderImagePlugin
+2023-09-11 07:55:08,287 PIL.Image    DEBUG    Importing SunImagePlugin
+2023-09-11 07:55:08,287 PIL.Image    DEBUG    Importing TgaImagePlugin
+2023-09-11 07:55:08,295 PIL.Image    DEBUG    Importing TiffImagePlugin
+2023-09-11 07:55:08,295 PIL.Image    DEBUG    Importing WebPImagePlugin
+2023-09-11 07:55:08,306 PIL.Image    DEBUG    Importing WmfImagePlugin
+2023-09-11 07:55:08,306 PIL.Image    DEBUG    Importing XbmImagePlugin
+2023-09-11 07:55:08,314 PIL.Image    DEBUG    Importing XpmImagePlugin
+2023-09-11 07:55:08,314 PIL.Image    DEBUG    Importing XVThumbImagePlugin
+2023-09-11 07:55:16,263 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 07:55:16,426 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 07:55:30,400 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 07:55:30,559 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 07:57:17,449 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 07:57:17,600 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 07:59:23,183 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 07:59:23,353 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:11:37,449 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:11:37,606 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:13:38,913 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:13:39,100 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:15:19,903 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:15:20,057 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:22:32,691 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:22:32,843 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:23:49,345 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:23:49,479 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:25:11,400 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:25:11,542 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:26:23,656 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:26:23,802 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:27:40,549 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:27:40,676 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:29:26,973 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:29:27,118 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:49:50,551 django.utils.autoreload INFO     C:\pythonCode\python-projects\myshop\home\views.py changed, reloading.
+2023-09-11 08:49:51,856 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-11 08:50:19,765 django.utils.autoreload INFO     C:\pythonCode\python-projects\myshop\home\views.py changed, reloading.
+2023-09-11 08:50:20,207 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-11 08:50:43,250 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-11 08:50:49,499 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:50:50,022 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:58:55,795 django.utils.autoreload INFO     C:\pythonCode\python-projects\myshop\home\views.py changed, reloading.
+2023-09-11 08:58:56,261 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-11 08:59:25,325 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-11 08:59:28,767 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 08:59:29,256 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 09:09:02,900 django.utils.autoreload INFO     C:\pythonCode\python-projects\myshop\home\views.py changed, reloading.
+2023-09-11 09:09:03,845 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-11 09:36:57,002 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-11 09:37:01,421 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 09:37:01,847 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 10:36:00,722 django.request WARNING  Not Found: /media/products/image/products/images/product-1.jpg
+2023-09-11 10:36:00,724 django.request WARNING  Not Found: /media/products/image/products/images/product-2.jpg
+2023-09-11 10:36:00,792 django.request WARNING  Not Found: /media/products/image/products/images/product-3.jpg
+2023-09-11 10:36:00,794 django.request WARNING  Not Found: /media/products/image/products/images/product-6.jpg
+2023-09-11 10:36:00,795 django.request WARNING  Not Found: /media/products/image/products/images/product-7.jpg
+2023-09-11 10:36:00,801 django.request WARNING  Not Found: /media/products/image/products/images/product-5.jpg
+2023-09-11 10:36:00,803 django.request WARNING  Not Found: /media/products/image/products/images/product-4.jpg
+2023-09-11 10:36:00,806 django.request WARNING  Not Found: /media/products/image/products/images/product-8.jpg
+2023-09-11 10:36:00,837 django.request WARNING  Not Found: /media/products/image/products/images/product-12.jpg
+2023-09-11 10:36:00,840 django.request WARNING  Not Found: /media/products/image/products/images/product-9.jpg
+2023-09-11 10:36:00,841 django.request WARNING  Not Found: /media/products/image/products/images/product-10.jpg
+2023-09-11 10:36:00,846 django.request WARNING  Not Found: /media/products/image/products/images/product-11.jpg
+2023-09-11 10:36:01,857 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 10:36:02,259 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 10:37:24,002 django.request WARNING  Not Found: /media/product/image/product-2.jpg
+2023-09-11 10:39:10,856 django.request WARNING  Not Found: /home/media/product/image/product-2.jpg
+2023-09-11 10:39:30,875 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 10:39:31,260 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 10:48:20,010 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 10:48:20,132 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 10:49:48,863 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 10:49:49,184 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 10:49:52,215 django.request WARNING  Not Found: /media/products/images/products/images/product-2.jpg
+2023-09-11 10:49:52,220 django.request WARNING  Not Found: /media/products/images/products/images/product-1.jpg
+2023-09-11 10:49:52,226 django.request WARNING  Not Found: /media/products/images/products/images/product-3.jpg
+2023-09-11 10:49:52,240 django.request WARNING  Not Found: /media/products/images/products/images/product-5.jpg
+2023-09-11 10:49:52,243 django.request WARNING  Not Found: /media/products/images/products/images/product-4.jpg
+2023-09-11 10:49:52,259 django.request WARNING  Not Found: /media/products/images/products/images/product-6.jpg
+2023-09-11 10:49:52,261 django.request WARNING  Not Found: /media/products/images/products/images/product-8.jpg
+2023-09-11 10:49:52,263 django.request WARNING  Not Found: /media/products/images/products/images/product-7.jpg
+2023-09-11 10:49:52,270 django.request WARNING  Not Found: /media/products/images/products/images/product-9.jpg
+2023-09-11 10:49:52,300 django.request WARNING  Not Found: /media/products/images/products/images/product-11.jpg
+2023-09-11 10:49:52,305 django.request WARNING  Not Found: /media/products/images/products/images/product-10.jpg
+2023-09-11 10:49:52,306 django.request WARNING  Not Found: /media/products/images/products/images/product-12.jpg
+2023-09-11 10:49:53,101 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 10:49:53,445 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 10:49:58,342 django.request WARNING  Not Found: /media/products/images/products/images/product-4.jpg
+2023-09-11 10:49:58,348 django.request WARNING  Not Found: /media/products/images/products/images/product-2.jpg
+2023-09-11 10:49:58,349 django.request WARNING  Not Found: /media/products/images/products/images/product-5.jpg
+2023-09-11 10:49:58,351 django.request WARNING  Not Found: /media/products/images/products/images/product-6.jpg
+2023-09-11 10:49:58,353 django.request WARNING  Not Found: /media/products/images/products/images/product-3.jpg
+2023-09-11 10:49:58,354 django.request WARNING  Not Found: /media/products/images/products/images/product-1.jpg
+2023-09-11 10:49:58,376 django.request WARNING  Not Found: /media/products/images/products/images/product-8.jpg
+2023-09-11 10:49:58,384 django.request WARNING  Not Found: /media/products/images/products/images/product-11.jpg
+2023-09-11 10:49:58,388 django.request WARNING  Not Found: /media/products/images/products/images/product-7.jpg
+2023-09-11 10:49:58,398 django.request WARNING  Not Found: /media/products/images/products/images/product-10.jpg
+2023-09-11 10:49:58,406 django.request WARNING  Not Found: /media/products/images/products/images/product-9.jpg
+2023-09-11 10:49:58,409 django.request WARNING  Not Found: /media/products/images/products/images/product-12.jpg
+2023-09-11 10:49:59,251 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 10:49:59,639 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 10:50:53,341 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-11 10:50:57,958 django.request WARNING  Not Found: /media/products/images/products/images/product-1.jpg
+2023-09-11 10:50:57,983 django.request WARNING  Not Found: /media/products/images/products/images/product-2.jpg
+2023-09-11 10:50:57,985 django.request WARNING  Not Found: /media/products/images/products/images/product-3.jpg
+2023-09-11 10:50:57,988 django.request WARNING  Not Found: /media/products/images/products/images/product-5.jpg
+2023-09-11 10:50:57,990 django.request WARNING  Not Found: /media/products/images/products/images/product-4.jpg
+2023-09-11 10:50:58,025 django.request WARNING  Not Found: /media/products/images/products/images/product-6.jpg
+2023-09-11 10:50:58,027 django.request WARNING  Not Found: /media/products/images/products/images/product-7.jpg
+2023-09-11 10:50:58,066 django.request WARNING  Not Found: /media/products/images/products/images/product-9.jpg
+2023-09-11 10:50:58,069 django.request WARNING  Not Found: /media/products/images/products/images/product-10.jpg
+2023-09-11 10:50:58,069 django.request WARNING  Not Found: /media/products/images/products/images/product-8.jpg
+2023-09-11 10:50:58,071 django.request WARNING  Not Found: /media/products/images/products/images/product-11.jpg
+2023-09-11 10:50:58,172 django.request WARNING  Not Found: /media/products/images/products/images/product-12.jpg
+2023-09-11 10:50:59,105 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 10:50:59,952 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 10:52:38,709 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 10:52:39,021 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 10:59:31,370 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 10:59:31,839 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:00:44,134 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:00:44,253 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:00:47,230 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:00:47,486 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:04:14,675 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:04:15,076 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:04:17,694 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:04:17,808 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:04:24,436 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:04:24,685 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:05:43,888 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:05:44,409 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:06:37,086 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:06:37,614 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:06:59,349 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:06:59,922 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:09:16,829 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:09:16,938 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:10:52,768 PIL.Image    DEBUG    Importing BlpImagePlugin
+2023-09-11 11:10:52,769 PIL.Image    DEBUG    Importing BmpImagePlugin
+2023-09-11 11:10:52,770 PIL.Image    DEBUG    Importing BufrStubImagePlugin
+2023-09-11 11:10:52,771 PIL.Image    DEBUG    Importing CurImagePlugin
+2023-09-11 11:10:52,771 PIL.Image    DEBUG    Importing DcxImagePlugin
+2023-09-11 11:10:52,773 PIL.Image    DEBUG    Importing DdsImagePlugin
+2023-09-11 11:10:52,774 PIL.Image    DEBUG    Importing EpsImagePlugin
+2023-09-11 11:10:52,792 PIL.Image    DEBUG    Importing FitsImagePlugin
+2023-09-11 11:10:52,794 PIL.Image    DEBUG    Importing FliImagePlugin
+2023-09-11 11:10:52,795 PIL.Image    DEBUG    Importing FpxImagePlugin
+2023-09-11 11:10:52,798 PIL.Image    DEBUG    Image: failed to import FpxImagePlugin: No module named 'olefile'
+2023-09-11 11:10:52,799 PIL.Image    DEBUG    Importing FtexImagePlugin
+2023-09-11 11:10:52,801 PIL.Image    DEBUG    Importing GbrImagePlugin
+2023-09-11 11:10:52,802 PIL.Image    DEBUG    Importing GifImagePlugin
+2023-09-11 11:10:52,802 PIL.Image    DEBUG    Importing GribStubImagePlugin
+2023-09-11 11:10:52,804 PIL.Image    DEBUG    Importing Hdf5StubImagePlugin
+2023-09-11 11:10:52,805 PIL.Image    DEBUG    Importing IcnsImagePlugin
+2023-09-11 11:10:52,809 PIL.Image    DEBUG    Importing IcoImagePlugin
+2023-09-11 11:10:52,810 PIL.Image    DEBUG    Importing ImImagePlugin
+2023-09-11 11:10:52,812 PIL.Image    DEBUG    Importing ImtImagePlugin
+2023-09-11 11:10:52,814 PIL.Image    DEBUG    Importing IptcImagePlugin
+2023-09-11 11:10:52,817 PIL.Image    DEBUG    Importing JpegImagePlugin
+2023-09-11 11:10:52,817 PIL.Image    DEBUG    Importing Jpeg2KImagePlugin
+2023-09-11 11:10:52,817 PIL.Image    DEBUG    Importing McIdasImagePlugin
+2023-09-11 11:10:52,818 PIL.Image    DEBUG    Importing MicImagePlugin
+2023-09-11 11:10:52,819 PIL.Image    DEBUG    Image: failed to import MicImagePlugin: No module named 'olefile'
+2023-09-11 11:10:52,819 PIL.Image    DEBUG    Importing MpegImagePlugin
+2023-09-11 11:10:52,820 PIL.Image    DEBUG    Importing MpoImagePlugin
+2023-09-11 11:10:52,825 PIL.Image    DEBUG    Importing MspImagePlugin
+2023-09-11 11:10:52,826 PIL.Image    DEBUG    Importing PalmImagePlugin
+2023-09-11 11:10:52,829 PIL.Image    DEBUG    Importing PcdImagePlugin
+2023-09-11 11:10:52,831 PIL.Image    DEBUG    Importing PcxImagePlugin
+2023-09-11 11:10:52,831 PIL.Image    DEBUG    Importing PdfImagePlugin
+2023-09-11 11:10:52,839 PIL.Image    DEBUG    Importing PixarImagePlugin
+2023-09-11 11:10:52,841 PIL.Image    DEBUG    Importing PngImagePlugin
+2023-09-11 11:10:52,842 PIL.Image    DEBUG    Importing PpmImagePlugin
+2023-09-11 11:10:52,842 PIL.Image    DEBUG    Importing PsdImagePlugin
+2023-09-11 11:10:52,843 PIL.Image    DEBUG    Importing QoiImagePlugin
+2023-09-11 11:10:52,845 PIL.Image    DEBUG    Importing SgiImagePlugin
+2023-09-11 11:10:52,845 PIL.Image    DEBUG    Importing SpiderImagePlugin
+2023-09-11 11:10:52,847 PIL.Image    DEBUG    Importing SunImagePlugin
+2023-09-11 11:10:52,848 PIL.Image    DEBUG    Importing TgaImagePlugin
+2023-09-11 11:10:52,850 PIL.Image    DEBUG    Importing TiffImagePlugin
+2023-09-11 11:10:52,850 PIL.Image    DEBUG    Importing WebPImagePlugin
+2023-09-11 11:10:52,855 PIL.Image    DEBUG    Importing WmfImagePlugin
+2023-09-11 11:10:52,856 PIL.Image    DEBUG    Importing XbmImagePlugin
+2023-09-11 11:10:52,858 PIL.Image    DEBUG    Importing XpmImagePlugin
+2023-09-11 11:10:52,861 PIL.Image    DEBUG    Importing XVThumbImagePlugin
+2023-09-11 11:11:00,423 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:11:00,688 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:11:48,304 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:11:48,434 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:12:07,420 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:12:07,667 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:13:30,931 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:13:31,049 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:14:00,494 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:14:00,721 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:15:17,239 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:15:17,348 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:35:40,161 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:35:40,323 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:35:46,429 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:35:46,666 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:36:18,533 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:36:19,048 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:38:56,540 django.utils.autoreload INFO     C:\pythonCode\python-projects\myshop\home\urls.py changed, reloading.
+2023-09-11 11:38:57,795 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-11 11:40:02,242 django.utils.autoreload INFO     C:\pythonCode\python-projects\myshop\home\views.py changed, reloading.
+2023-09-11 11:40:02,841 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-11 11:44:05,894 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myshop\home\views.py", line 14, in home
+    return render(request,'home/home.html',productList)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\defaulttags.py", line 1389, in url
+    args.append(parser.compile_filter(value))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '=' from '='
+2023-09-11 11:45:38,247 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:45:38,516 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:45:42,541 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:45:42,640 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:50:04,015 django.utils.autoreload INFO     C:\pythonCode\python-projects\myshop\home\views.py changed, reloading.
+2023-09-11 11:50:04,835 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-11 11:54:14,720 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:54:14,971 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:54:43,170 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:54:43,515 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:54:46,807 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:54:47,021 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:55:02,209 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:55:02,628 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:55:05,075 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:55:05,301 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:55:12,859 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:55:13,252 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:55:17,675 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:55:17,877 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:55:58,276 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:55:58,664 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:56:04,971 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 11:56:05,196 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 12:00:47,421 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 12:00:47,779 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 12:00:55,748 django.request WARNING  Not Found: /favicon.ico
+2023-09-11 12:00:55,970 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:13:46,678 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-15 10:13:50,968 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:13:51,984 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:13:52,294 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:19:33,903 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myshop\home\views.py", line 14, in home
+    return render(request,'home/home.html',productList)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 484, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 482, in parse
+    filter_expression = self.compile_filter(token.contents)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: ' + '-' + prod.pk' from 'prod.product_name + '-' + prod.pk'
+2023-09-15 10:19:57,462 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myshop\home\views.py", line 14, in home
+    return render(request,'home/home.html',productList)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 484, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 482, in parse
+    filter_expression = self.compile_filter(token.contents)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: ' + prod.pk' from 'prod.product_name + prod.pk'
+2023-09-15 10:19:59,169 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myshop\home\views.py", line 14, in home
+    return render(request,'home/home.html',productList)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 484, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 482, in parse
+    filter_expression = self.compile_filter(token.contents)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: ' + prod.pk' from 'prod.product_name + prod.pk'
+2023-09-15 10:22:00,896 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'prod.product_name+prod.pk'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myshop\home\views.py", line 14, in home
+    return render(request,'home/home.html',productList)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 31: 'prod.product_name+prod.pk', expected 'empty' or 'endfor'. Did you forget to register or load this tag?
+2023-09-15 10:22:02,399 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'prod.product_name+prod.pk'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myshop\home\views.py", line 14, in home
+    return render(request,'home/home.html',productList)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 31: 'prod.product_name+prod.pk', expected 'empty' or 'endfor'. Did you forget to register or load this tag?
+2023-09-15 10:24:44,162 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:24:44,415 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:25:42,289 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:25:42,477 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:25:52,415 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:25:52,723 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:26:50,926 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-15 10:26:54,466 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:28:23,705 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-15 10:28:28,187 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:28:28,635 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:29:08,734 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:29:09,399 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:30:06,869 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myshop\home\views.py", line 14, in home
+    return render(request,'home/home.html',productList)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 484, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 482, in parse
+    filter_expression = self.compile_filter(token.contents)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '+ str(prod.pk)' from 'prod.product_name+ str(prod.pk)'
+2023-09-15 10:30:37,975 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myshop\home\views.py", line 14, in home
+    return render(request,'home/home.html',productList)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 484, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 482, in parse
+    filter_expression = self.compile_filter(token.contents)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: ' + prod.pk' from 'prod.product_name + prod.pk'
+2023-09-15 10:39:27,609 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:39:27,940 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:41:53,115 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'endfor'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myshop\home\views.py", line 14, in home
+    return render(request,'home/home.html',productList)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\defaulttags.py", line 1491, in do_with
+    nodelist = parser.parse(("endwith",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 43: 'endfor', expected 'endwith'. Did you forget to register or load this tag?
+2023-09-15 10:44:35,772 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'endfor'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myshop\home\views.py", line 14, in home
+    return render(request,'home/home.html',productList)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\defaulttags.py", line 1491, in do_with
+    nodelist = parser.parse(("endwith",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 44: 'endfor', expected 'endwith'. Did you forget to register or load this tag?
+2023-09-15 10:46:10,396 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:46:10,716 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:50:52,610 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:50:52,944 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:55:28,832 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:55:29,253 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:56:21,665 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-15 10:56:25,318 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:56:25,762 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:58:20,607 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:58:21,142 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:59:00,905 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 10:59:01,423 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:00:18,881 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:00:19,635 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:03:44,492 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:03:44,984 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:04:20,424 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:04:21,327 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:23:49,219 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-15 11:23:51,817 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'endwith'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myshop\home\views.py", line 14, in home
+    return render(request,'home/home.html',productList)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\pythonCode\python-projects\myenv\Lib\site-packages\django\template\base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 35: 'endwith', expected 'empty' or 'endfor'. Did you forget to register or load this tag?
+2023-09-15 11:23:52,214 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:24:33,172 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:24:33,629 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:28:15,526 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:28:16,504 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:31:17,860 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:31:18,409 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:33:13,336 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:33:13,902 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:41:09,461 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:41:09,780 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:42:22,235 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-15 11:42:25,830 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:42:26,464 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:44:53,215 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 11:44:53,711 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 12:03:25,497 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-15 12:03:30,007 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 12:03:30,505 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 12:05:02,908 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 12:05:03,561 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 12:07:18,038 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 12:07:18,526 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 12:12:40,635 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 12:12:40,911 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 12:16:57,602 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 12:16:57,904 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 12:19:15,847 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 12:19:16,254 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 12:20:10,762 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 12:20:11,246 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 12:23:02,076 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-15 12:23:09,228 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 12:23:09,489 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 12:37:38,814 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-15 12:37:42,622 django.request WARNING  Not Found: /favicon.ico
+2023-09-15 12:37:42,937 django.request WARNING  Not Found: /favicon.ico
+2023-10-22 10:30:36,355 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-10-22 10:30:41,691 django.request WARNING  Not Found: /favicon.ico
+2023-10-22 11:35:43,143 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-10-22 11:40:54,241 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-10-22 11:45:00,620 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-10-22 11:45:04,630 django.request WARNING  Not Found: /favicon.ico
+2023-10-22 12:54:49,905 django.request WARNING  Not Found: /home/about/images/about.jpg
+2023-10-22 12:55:46,249 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-10-27 11:06:35,540 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-10-27 11:06:39,959 django.request WARNING  Not Found: /favicon.ico
+2023-10-27 11:07:03,364 django.request WARNING  Not Found: /home/about/images/about.jpg
+2023-10-27 11:31:31,050 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-10-30 00:34:52,619 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-10-30 00:34:56,682 django.request WARNING  Not Found: /favicon.ico
+2023-10-30 00:37:29,952 django.request WARNING  Not Found: /home/about/images/about.jpg
+2023-10-30 00:59:38,839 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-25 22:20:19,612 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-25 22:21:38,426 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-25 22:23:27,465 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\aiToolsNavigator\settings.py changed, reloading.
+2024-06-25 22:25:02,572 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-25 22:30:04,680 django.request WARNING  Not Found: /w3images/avatar5.png
+2024-06-25 22:30:04,681 django.request WARNING  Not Found: /w3images/region.jpg
+2024-06-25 22:30:04,682 django.request WARNING  Not Found: /w3images/avatar6.png
+2024-06-25 22:30:04,682 django.request WARNING  Not Found: /w3images/avatar3.png
+2024-06-25 22:30:04,683 django.request WARNING  Not Found: /w3images/avatar2.png
+2024-06-25 22:30:04,683 django.request WARNING  Not Found: /w3images/avatar1.png
+2024-06-25 23:01:51,956 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-26 10:32:04,294 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-26 10:32:06,308 django.request WARNING  Not Found: /assets/demo/chart-area-demo.js
+2024-06-26 10:32:06,315 django.request WARNING  Not Found: /assets/demo/chart-bar-demo.js
+2024-06-26 10:32:06,319 django.request WARNING  Not Found: /js/scripts.js
+2024-06-26 10:32:06,319 django.request WARNING  Not Found: /css/styles.css
+2024-06-26 10:32:06,319 django.request WARNING  Not Found: /js/datatables-simple-demo.js
+2024-06-26 10:32:07,728 django.request WARNING  Not Found: /favicon.ico
+2024-06-28 00:57:29,990 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-28 00:57:34,114 django.request WARNING  Not Found: /assets/demo/chart-area-demo.js
+2024-06-28 00:57:34,115 django.request WARNING  Not Found: /js/scripts.js
+2024-06-28 00:57:34,117 django.request WARNING  Not Found: /assets/demo/chart-bar-demo.js
+2024-06-28 00:57:34,119 django.request WARNING  Not Found: /js/datatables-simple-demo.js
+2024-06-28 00:57:36,190 django.request WARNING  Not Found: /favicon.ico
+2024-06-28 00:57:56,440 django.request WARNING  Not Found: /charts.html
+2024-06-28 01:02:24,950 django.request WARNING  Not Found: /js/scripts.js
+2024-06-28 01:02:24,955 django.request WARNING  Not Found: /assets/demo/chart-area-demo.js
+2024-06-28 01:02:24,961 django.request WARNING  Not Found: /assets/demo/chart-bar-demo.js
+2024-06-28 01:02:24,964 django.request WARNING  Not Found: /js/datatables-simple-demo.js
+2024-06-28 01:03:16,652 django.request WARNING  Not Found: /js/scripts.js
+2024-06-28 01:03:16,673 django.request WARNING  Not Found: /assets/demo/chart-bar-demo.js
+2024-06-28 01:03:16,673 django.request WARNING  Not Found: /assets/demo/chart-area-demo.js
+2024-06-28 01:03:16,673 django.request WARNING  Not Found: /js/datatables-simple-demo.js
+2024-06-28 01:03:19,325 django.request WARNING  Not Found: /charts.html
+2024-06-28 01:12:40,994 django.request WARNING  Not Found: /charts.html
+2024-06-28 01:12:44,332 django.request WARNING  Not Found: /tables.html
+2024-06-28 01:12:47,828 django.request WARNING  Not Found: /charts.html
+2024-06-28 01:20:24,976 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\urls.py changed, reloading.
+2024-06-28 01:20:26,597 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-28 01:21:47,958 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\urls.py changed, reloading.
+2024-06-28 01:21:48,780 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-28 01:22:43,073 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\urls.py changed, reloading.
+2024-06-28 01:22:43,950 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-28 01:24:18,368 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-06-28 01:24:19,090 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-28 01:25:29,388 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\urls.py changed, reloading.
+2024-06-28 01:25:29,929 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-28 01:29:08,371 django.request WARNING  Not Found: /chart/css/styles.css
+2024-06-28 01:29:08,371 django.request WARNING  Not Found: /chart/assets/demo/chart-bar-demo.js
+2024-06-28 01:29:08,371 django.request WARNING  Not Found: /chart/assets/demo/chart-pie-demo.js
+2024-06-28 01:29:08,371 django.request WARNING  Not Found: /chart/js/scripts.js
+2024-06-28 01:29:08,371 django.request WARNING  Not Found: /chart/assets/demo/chart-area-demo.js
+2024-06-28 01:29:14,926 django.request WARNING  Not Found: /table/js/scripts.js
+2024-06-28 01:29:14,928 django.request WARNING  Not Found: /table/css/styles.css
+2024-06-28 01:29:14,929 django.request WARNING  Not Found: /table/js/datatables-simple-demo.js
+2024-06-28 01:37:56,956 django.request WARNING  Not Found: /chart/tables.html
+2024-06-28 01:38:03,644 django.request WARNING  Not Found: /chart/index.html
+2024-06-28 01:38:18,198 django.request ERROR    Internal Server Error: /table/
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 10, in tables
+    return render(request,'home/tables.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 565, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 11: 'static'. Did you forget to register or load this tag?
+2024-06-28 01:43:10,381 django.request WARNING  Not Found: /index.html
+2024-06-28 02:25:06,348 django.request WARNING  Not Found: /table/index.html
+2024-06-28 02:30:47,362 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\urls.py changed, reloading.
+2024-06-28 02:30:48,347 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-28 17:56:03,114 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-28 17:56:09,832 django.request WARNING  Not Found: /favicon.ico
+2024-06-28 18:01:46,171 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\urls.py changed, reloading.
+2024-06-28 18:01:47,429 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-28 18:02:56,898 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-06-28 18:02:57,510 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-28 18:03:11,424 django.request WARNING  Not Found: /table/
+2024-06-28 18:03:16,381 django.request WARNING  Not Found: /table/
+2024-06-28 18:03:19,609 django.request WARNING  Not Found: /table/
+2024-06-28 18:03:55,724 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\urls.py changed, reloading.
+2024-06-28 18:03:56,294 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-28 18:03:59,931 django.request WARNING  Not Found: /favicon.ico
+2024-06-28 18:04:54,747 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\urls.py changed, reloading.
+2024-06-28 18:04:55,729 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-28 18:06:04,652 django.request WARNING  Not Found: /recommandations/
+2024-06-28 18:06:09,033 django.request WARNING  Not Found: /recommandations/
+2024-06-28 18:06:12,300 django.request WARNING  Not Found: /recommandations/
+2024-06-28 18:06:59,550 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\urls.py changed, reloading.
+2024-06-28 18:07:00,143 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-28 18:10:52,785 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-06-28 18:10:53,327 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-28 18:11:00,804 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-06-28 18:11:01,377 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-28 18:11:21,137 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\urls.py changed, reloading.
+2024-06-28 18:11:21,716 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-28 18:12:17,893 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-28 18:32:23,870 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-30 01:01:43,220 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-30 01:01:47,105 django.request WARNING  Not Found: /favicon.ico
+2024-06-30 01:04:29,749 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-06-30 01:05:55,497 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-06 01:47:53,902 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-06 01:47:58,734 django.request WARNING  Not Found: /favicon.ico
+2024-07-09 22:02:26,827 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-09 22:02:50,288 django.request WARNING  Not Found: /favicon.ico
+2024-07-12 19:03:15,074 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 19:03:19,564 django.request WARNING  Not Found: /favicon.ico
+2024-07-12 19:08:11,264 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\aiToolsNavigator\settings.py changed, reloading.
+2024-07-12 19:08:13,211 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 19:10:02,349 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\aiToolsNavigator\settings.py changed, reloading.
+2024-07-12 19:10:03,550 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 19:24:40,137 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\models.py changed, reloading.
+2024-07-12 19:24:41,505 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 19:29:25,571 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\models.py changed, reloading.
+2024-07-12 19:29:27,544 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 19:31:44,955 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\models.py changed, reloading.
+2024-07-12 19:31:45,583 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 19:42:40,644 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 19:51:05,285 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 19:51:06,559 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 19:52:30,050 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 19:52:30,797 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 19:53:17,307 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 19:53:18,153 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 19:55:26,701 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 19:55:27,505 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 19:56:41,937 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 19:56:42,525 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 19:59:26,902 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 19:59:27,728 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 20:04:16,023 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 20:04:44,438 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 20:04:45,195 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 20:07:25,866 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 20:07:27,297 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 21:21:14,985 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 21:21:16,486 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 21:23:16,177 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 21:23:16,852 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 21:33:36,767 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 21:33:37,474 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 21:34:34,568 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 21:34:35,510 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 21:35:11,278 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 21:35:12,170 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 21:36:08,094 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'ai_tool_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 23, in home
+    ai_tool_name=row['ai_tool_name'],
+                 ~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\pandas\core\series.py", line 1121, in __getitem__
+    return self._get_value(key)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\pandas\core\series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'ai_tool_name'
+2024-07-12 21:40:14,007 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 21:40:14,786 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 21:41:20,207 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 21:41:21,690 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 21:41:45,960 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 21:41:47,610 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 21:42:09,921 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 21:42:10,546 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 21:43:06,635 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 21:43:07,583 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 21:43:18,095 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\MySQLdb\connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1366, "Incorrect string value: '\\xF0\\x9F\\x94\\xA5' for column 'descriptions' at row 1")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 32, in home
+    MasterData.objects.create(
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\models\base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\models\base.py", line 1071, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\models\base.py", line 1112, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\MySQLdb\connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1366, "Incorrect string value: '\\xF0\\x9F\\x94\\xA5' for column 'descriptions' at row 1")
+2024-07-12 21:51:12,861 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 21:56:35,621 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 21:56:41,403 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\MySQLdb\connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1366, "Incorrect string value: '\\xF0\\x9F\\x94\\xA5' for column 'descriptions' at row 1")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 32, in home
+    MasterData.objects.create(
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\models\base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\models\base.py", line 1071, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\models\base.py", line 1112, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\MySQLdb\connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1366, "Incorrect string value: '\\xF0\\x9F\\x94\\xA5' for column 'descriptions' at row 1")
+2024-07-12 22:01:44,887 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\aiToolsNavigator\settings.py changed, reloading.
+2024-07-12 22:01:47,836 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 22:02:40,028 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\aiToolsNavigator\settings.py changed, reloading.
+2024-07-12 22:02:41,019 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 22:08:19,335 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 22:08:20,675 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 22:10:38,120 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 22:10:39,278 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 22:11:01,992 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 22:11:02,625 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 22:12:03,107 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 22:12:04,086 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 22:17:54,429 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 22:17:55,327 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 22:18:42,714 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 22:18:43,289 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 22:20:39,437 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 22:20:40,244 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 22:22:23,357 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 22:22:24,728 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-12 22:24:29,173 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-12 22:24:30,069 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-14 23:16:20,450 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-14 23:16:37,197 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'master_data_id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 10, in home
+    insertDataIntoRecommTable()
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 51, in insertDataIntoRecommTable
+    master_data_id=row['master_data_id']
+                   ~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\pandas\core\series.py", line 1121, in __getitem__
+    return self._get_value(key)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\pandas\core\series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'master_data_id'
+2024-07-14 23:16:37,613 django.request WARNING  Not Found: /favicon.ico
+2024-07-14 23:30:20,193 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-14 23:30:30,837 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'master_data'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 10, in home
+    insertDataIntoRecommTable()
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 51, in insertDataIntoRecommTable
+    master_data=row['master_data']
+                ~~~^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\pandas\core\series.py", line 1121, in __getitem__
+    return self._get_value(key)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\pandas\core\series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'master_data'
+2024-07-15 00:02:56,237 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-15 00:02:57,973 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 00:03:42,431 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-15 00:03:43,087 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 00:10:06,498 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-15 00:10:07,298 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 00:17:33,122 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 00:21:49,126 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\aiToolsNavigator\settings.py changed, reloading.
+2024-07-15 00:21:50,028 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 00:23:40,472 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-15 00:23:41,388 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 00:24:29,663 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-15 00:24:30,530 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 18:54:08,750 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 18:54:14,004 django.request WARNING  Not Found: /favicon.ico
+2024-07-15 19:06:34,435 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 19:18:20,053 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-15 19:18:20,955 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 19:19:59,661 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-15 19:20:00,278 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 19:23:16,300 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 19:34:19,417 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 19:38:05,263 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 19:39:24,149 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 19:40:07,633 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 19:49:21,671 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 19:50:37,437 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 19:52:19,951 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 19:53:48,624 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 20:16:14,029 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 20:19:11,336 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 20:24:37,776 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 20:27:07,802 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 20:29:12,881 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 20:30:54,242 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 20:31:43,134 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 20:32:12,934 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 20:33:26,930 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 20:34:08,080 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 20:37:55,005 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 20:45:10,082 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-15 20:45:11,563 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 20:45:44,449 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-15 20:45:45,784 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 20:46:27,822 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 20:46:37,546 django.request WARNING  Not Found: /get_recommendations/
+2024-07-15 20:46:47,471 django.request WARNING  Not Found: /get_recommendations/
+2024-07-15 20:46:53,271 django.request WARNING  Not Found: /get_recommendations/
+2024-07-15 20:47:01,071 django.request WARNING  Not Found: /get_recommendations/
+2024-07-15 20:48:22,192 django.request WARNING  Not Found: /get_recommendations/
+2024-07-15 20:53:00,648 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-15 20:53:07,591 django.request WARNING  Not Found: /get_recommendations/
+2024-07-15 20:54:46,799 django.request WARNING  Not Found: /get_recommendations/
+2024-07-16 20:13:15,582 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-16 20:13:21,932 django.request WARNING  Not Found: /favicon.ico
+2024-07-16 20:13:31,430 django.request WARNING  Not Found: /get_recommendations/
+2024-07-16 20:17:44,091 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-16 20:17:46,436 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-16 20:21:17,338 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-16 20:21:19,010 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-16 20:22:30,060 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-16 20:22:31,326 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-16 20:23:46,989 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-16 20:23:48,431 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-16 20:32:10,385 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-16 20:32:11,883 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-16 20:33:36,359 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-16 20:33:37,780 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-16 20:36:25,358 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-16 20:36:28,696 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-16 21:25:11,287 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-16 21:25:22,032 django.request WARNING  Not Found: /favicon.ico
+2024-07-16 21:25:57,651 django.request ERROR    Internal Server Error: /get_recommendations/
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 124, in get_recommendations
+    return JsonResponse(recommendations, safe=False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Series is not JSON serializable
+2024-07-16 21:27:47,813 django.request ERROR    Internal Server Error: /get_recommendations/
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 124, in get_recommendations
+    return JsonResponse(recommendations, safe=False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Series is not JSON serializable
+2024-07-16 21:27:50,136 django.request ERROR    Internal Server Error: /get_recommendations/
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 124, in get_recommendations
+    return JsonResponse(recommendations, safe=False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Series is not JSON serializable
+2024-07-16 21:27:50,205 django.request ERROR    Internal Server Error: /get_recommendations/
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 124, in get_recommendations
+    return JsonResponse(recommendations, safe=False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Series is not JSON serializable
+2024-07-16 21:27:50,787 django.request ERROR    Internal Server Error: /get_recommendations/
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 124, in get_recommendations
+    return JsonResponse(recommendations, safe=False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Series is not JSON serializable
+2024-07-16 21:27:50,866 django.request ERROR    Internal Server Error: /get_recommendations/
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 124, in get_recommendations
+    return JsonResponse(recommendations, safe=False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Series is not JSON serializable
+2024-07-16 21:27:53,502 django.request ERROR    Internal Server Error: /get_recommendations/
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 124, in get_recommendations
+    return JsonResponse(recommendations, safe=False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Series is not JSON serializable
+2024-07-16 21:28:21,815 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-16 21:32:25,065 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-16 21:32:26,906 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-16 21:50:19,218 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-16 21:51:48,896 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-07-16 21:52:30,325 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-16 21:59:15,836 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-16 22:00:46,596 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-16 22:08:24,045 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-16 22:16:31,073 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-16 22:28:32,688 django.utils.autoreload INFO     Watching for file changes with StatReloader
