@@ -2118,3 +2118,4 @@ TypeError: Object of type Series is not JSON serializable
 2024-07-16 22:08:24,045 django.utils.autoreload INFO     Watching for file changes with StatReloader
 2024-07-16 22:16:31,073 django.utils.autoreload INFO     Watching for file changes with StatReloader
 2024-07-16 22:28:32,688 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-27 12:52:50,031 django.utils.autoreload INFO     Watching for file changes with StatReloader
