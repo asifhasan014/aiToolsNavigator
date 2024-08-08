@@ -19,8 +19,32 @@ def home(request):
     if size == 0:
         insertDataIntoMasterTable()
         insertDataIntoRecommTable()
-    return render(request, 'home/home.html')
+    cardValues = prepareCardsData()
+    return render(request, 'home/home.html',cardValues)
 
+def prepareCardsData():
+    querysetForMasterData = MasterData.objects.all()
+    masterDataFrame = pd.DataFrame(list(querysetForMasterData.values()))
+
+    querysetForRecomData = RecommendationData.objects.all()
+    recomDataFrame = pd.DataFrame(list(querysetForRecomData.values()))
+
+    cardsVal = {}
+    distinct_ai_tools = masterDataFrame['ai_tool_name'].unique()
+    num_ai_tools = len(distinct_ai_tools)
+
+    distinct_categories = masterDataFrame['major_category'].unique()
+    num_distinct_categories = len(distinct_categories)
+
+    distinct_usable_for = recomDataFrame['useable_for'].unique()
+    num_distinct_usable_for = len(distinct_usable_for)
+
+    cardsVal = {
+        'ai_tool_count': num_ai_tools,
+        'major_category_count': num_distinct_categories,
+        'usable_for': num_distinct_usable_for
+    }
+    return cardsVal
 
 def insertDataIntoMasterTable():
     df = pd.read_csv(settings.DATA_FILE_PATH)

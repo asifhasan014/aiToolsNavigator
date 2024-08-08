@@ -2119,3 +2119,36 @@ TypeError: Object of type Series is not JSON serializable
 2024-07-16 22:16:31,073 django.utils.autoreload INFO     Watching for file changes with StatReloader
 2024-07-16 22:28:32,688 django.utils.autoreload INFO     Watching for file changes with StatReloader
 2024-07-27 12:52:50,031 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-07-27 12:53:14,592 django.request WARNING  Not Found: /favicon.ico
+2024-08-05 14:57:41,231 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-05 14:57:58,390 django.request WARNING  Not Found: /favicon.ico
+2024-08-05 14:59:06,766 django.request WARNING  Not Found: /favicon.ico
+2024-08-05 16:52:21,945 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-05 16:52:37,128 django.request WARNING  Not Found: /favicon.ico
+2024-08-08 08:47:21,708 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 08:47:28,606 django.request WARNING  Not Found: /favicon.ico
+2024-08-08 08:57:34,428 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 08:57:36,731 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 09:00:44,022 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 09:00:45,747 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 09:27:20,425 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 09:27:23,229 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 09:29:34,471 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 09:29:36,773 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 09:40:29,864 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 09:40:34,408 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 09:41:08,481 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 09:41:09,870 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 09:48:29,433 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 09:48:31,596 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 09:49:09,786 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 09:49:11,466 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 09:49:56,554 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 09:49:59,218 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 09:54:03,404 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 09:54:05,862 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 09:57:46,184 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 10:01:25,854 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 10:01:27,219 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 10:10:35,570 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 10:10:37,314 django.utils.autoreload INFO     Watching for file changes with StatReloader
