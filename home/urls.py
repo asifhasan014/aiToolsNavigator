@@ -11,4 +11,6 @@ urlpatterns = [
     path('chart/', views.charts, name='charts'),
     path('recommendation/', views.recommendation, name='recommendationData'),
     path('get_recommendations/', views.get_recommendations, name='get_recommendations'),
+    path('ai_tool/<int:pk>/', views.ai_tool_detail, name='ai_tool_detail'),
+    path('update_view_count/<int:pk>/', views.update_view_count, name='update_view_count'),
 ]

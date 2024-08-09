@@ -22,8 +22,20 @@
             integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
             crossorigin="anonymous"></script>
     <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script>
+        var csrfToken = "{{ csrf_token }}";
+        var baseUrl = "{{ base_url }}";
+        console.log("baseUrl");
+        console.log(baseUrl);
+
+    </script>
+    <script src="{% static 'base/js/recommandation.js' %}"></script>
 </head>
 <body class="sb-nav-fixed">
 <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
@@ -85,63 +97,70 @@
 <script src="https://cdn.jsdelivr.net/npm/simple-datatables@7.1.2/dist/umd/simple-datatables.min.js"
         crossorigin="anonymous"></script>
 <script src="{% static 'base/js/datatables-simple-demo.js' %}"></script>
+
+<!-- Modal -->
+<div class="modal fade" id="toolModal" tabindex="-1" role="dialog" aria-labelledby="toolModalLabel" aria-hidden="true"
+     data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="toolModalLabel">Tool Details</h5>
+                <!--                <button type="button" class="close" data-dismiss="modal" aria-label="Close">-->
+                <!--                    <span aria-hidden="true">&times;</span>-->
+                <!--                </button>-->
+            </div>
+            <div class="modal-body">
+                <!-- Tool details will be loaded here -->
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
 <script>
-$(document).ready(function () {
-    $('#recommendationForm').submit(function (event) {
-        event.preventDefault();
-        $('#errorMessage').hide();
+    $(document).ready(function() {
 
-        var toolName = $('#toolName').val();
-        if (toolName.trim() === '') {
-            $('#errorMessage').text('Tool name cannot be empty').show();
-            return;
-        }
-
+    // Triggered when the modal is about to be shown
+    var aiToolId = 0;
+    $('#toolModal').on('show.bs.modal', function(event) {
+        console.log("modal is being called");
+        var button = $(event.relatedTarget); // Button that triggered the modal
+        var toolId = button.data('id'); // Extract info from data-* attributes
+        aiToolId = toolId;
+        // Load the tool details via AJAX
         $.ajax({
-            type: 'POST',
-            url: "{% url 'get_recommendations' %}", // Django URL tag
-            data: {
-                tool_name: toolName,
-                csrfmiddlewaretoken: '{{ csrf_token }}' // Django CSRF token
-            },
-            success: function (data) {
-                $('#recommendationTable tbody').empty();
-
-                // Initialize index for table rows
-                var index = 1;
-
-                // Iterate over each tool in the data
-                $.each(data, function (toolKey, recommendations) {
-                    // recommendations is an array of recommendation objects
-                    $.each(recommendations, function (i, recommendation) {
-                        $('#recommendationTable tbody').append(
-                            `<tr>
-                                <td>${index}</td>
-                                <td>${recommendation.name}</td>
-                                <td>${recommendation.use}</td>
-                            </tr>`
-                        );
-                        index++; // Increment the index for each recommendation
-                    });
-                });
-
-                $('#recommendationTable').show();
-            },
-            error: function (xhr) {
-                var response = JSON.parse(xhr.responseText);
-                $('#errorMessage').text(response.error).show();
+            url: "{% url 'ai_tool_detail' pk=0 %}".replace("0", toolId),  // Replace 0 with the actual toolId
+            type: "GET",
+            success: function(data) {
+                console.log("GET Method is called");
+                // Populate the modal with the tool details
+                $('#toolModal .modal-body').html(data);
+                console.log("GET Method data binding");
             }
         });
     });
 
-    $('#clearButton').click(function () {
-        $('#errorMessage').hide();
-        $('#recommendationTable tbody').empty();
-        $('#recommendationTable').hide();
-        $('#toolName').val('');
+    // Triggered when the modal is closed
+    $('#toolModal').on('hide.bs.modal', function() {
+<!--        var toolId = $('#toolModal').find('.modal-body').data('Useable For'); // Get the tool ID again-->
+<!--        console.log("toolId");-->
+<!--        console.log(toolId);-->
+        // Send an AJAX request to increase the view count
+        $.ajax({
+            url: "{% url 'update_view_count' pk=0 %}".replace("0", aiToolId),  // Replace 0 with the actual toolId
+            type: "POST",
+            data: {
+                'csrfmiddlewaretoken': '{{ csrf_token }}'  // CSRF token for POST request
+            },
+            success: function(response) {
+                console.log("View count increased successfully.");
+            }
+        });
     });
 });
 
-
 </script>
+
 </body>

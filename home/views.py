@@ -1,16 +1,10 @@
-from django.shortcuts import render
+from django.shortcuts import render,get_object_or_404
 from django.conf import settings
 from django.http import JsonResponse
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from .models import MasterData, RecommendationData
 import pandas as pd
-
-DATABASE = {
-    'tool1': [{"name": "Tool 1 Rec 1", "use": "Use 1"}, {"name": "Tool 1 Rec 2", "use": "Use 2"}],
-    'tool2': [{"name": "Tool 2 Rec 1", "use": "Use 1"}, {"name": "Tool 2 Rec 2", "use": "Use 2"}],
-}
-
 
 def home(request):
     allMasterData = MasterData.objects.all()
@@ -19,8 +13,10 @@ def home(request):
     if size == 0:
         insertDataIntoMasterTable()
         insertDataIntoRecommTable()
-    cardValues = prepareCardsData()
-    return render(request, 'home/home.html',cardValues)
+    data = prepareCardsData()
+    url = f"{request.scheme}://{request.get_host()}"
+    data['base_url'] = url
+    return render(request, 'home/home.html',data)
 
 def prepareCardsData():
     querysetForMasterData = MasterData.objects.all()
@@ -29,7 +25,7 @@ def prepareCardsData():
     querysetForRecomData = RecommendationData.objects.all()
     recomDataFrame = pd.DataFrame(list(querysetForRecomData.values()))
 
-    cardsVal = {}
+    data = {}
     distinct_ai_tools = masterDataFrame['ai_tool_name'].unique()
     num_ai_tools = len(distinct_ai_tools)
 
@@ -39,12 +35,13 @@ def prepareCardsData():
     distinct_usable_for = recomDataFrame['useable_for'].unique()
     num_distinct_usable_for = len(distinct_usable_for)
 
-    cardsVal = {
+    data = {
+        'ai_tools' : querysetForMasterData,
         'ai_tool_count': num_ai_tools,
         'major_category_count': num_distinct_categories,
-        'usable_for': num_distinct_usable_for
+        'useable_for': num_distinct_usable_for
     }
-    return cardsVal
+    return data
 
 def insertDataIntoMasterTable():
     df = pd.read_csv(settings.DATA_FILE_PATH)
@@ -168,3 +165,16 @@ def get_recommandValue(df,tool_name, cosine_sim):
 
     formatted_tools_dict = {f'tool{i + 1}': v for i, (k, v) in enumerate(tools_dict.items())}
     return formatted_tools_dict
+
+
+def ai_tool_detail(request, pk):
+    tool = get_object_or_404(MasterData, pk=pk)
+    return render(request, 'home/ai_tool_detail.html', {'tool': tool})
+
+def update_view_count(request, pk):
+    if request.method == 'POST':
+        tool = get_object_or_404(MasterData, pk=pk)
+        tool.view_count += 1
+        tool.save()
+        return JsonResponse({'status': 'success', 'view_count': tool.view_count})
+    return JsonResponse({'status': 'failed'})

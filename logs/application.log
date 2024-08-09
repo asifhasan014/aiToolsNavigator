@@ -2152,3 +2152,455 @@ TypeError: Object of type Series is not JSON serializable
 2024-08-08 10:01:27,219 django.utils.autoreload INFO     Watching for file changes with StatReloader
 2024-08-08 10:10:35,570 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
 2024-08-08 10:10:37,314 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 14:00:25,783 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 14:00:28,560 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 14:02:22,504 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 14:02:23,851 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 14:24:55,138 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 14:24:57,345 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 14:27:14,379 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 14:27:15,788 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 14:39:57,664 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\models.py changed, reloading.
+2024-08-08 14:40:00,154 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 14:45:08,292 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 14:45:09,783 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 14:45:47,881 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 14:45:49,269 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 14:48:04,827 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 14:48:06,712 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 14:48:19,552 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 14:48:20,804 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 14:49:17,059 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\urls.py changed, reloading.
+2024-08-08 14:49:18,390 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 14:58:05,382 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 14:59:13,438 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\urls.py changed, reloading.
+2024-08-08 14:59:14,752 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 15:00:38,496 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\urls.py changed, reloading.
+2024-08-08 15:00:39,882 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 15:01:03,547 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\urls.py changed, reloading.
+2024-08-08 15:01:05,008 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 15:01:20,514 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\urls.py changed, reloading.
+2024-08-08 15:01:21,829 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 15:01:27,985 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 15:03:45,825 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-08 15:03:47,130 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 15:05:50,474 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 15:06:48,377 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\urls.py changed, reloading.
+2024-08-08 15:06:50,249 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-08 15:09:38,880 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\urls.py changed, reloading.
+2024-08-08 15:09:40,180 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 00:25:40,881 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 00:26:01,448 django.request WARNING  Not Found: /favicon.ico
+2024-08-09 00:28:39,014 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-09 00:28:40,962 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 00:45:01,439 django.request ERROR    Internal Server Error: /ai_tool/1/
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 170, in ai_tool_detail
+    return render(request, 'home/ai_tool_detail.html', tool)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\backends\django.py", line 57, in render
+    context = make_context(
+              ^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\context.py", line 286, in make_context
+    raise TypeError(
+TypeError: context must be a dict rather than MasterData.
+2024-08-09 00:45:13,167 django.request WARNING  Not Found: /home/ai_tool/1/
+2024-08-09 00:46:21,744 django.request WARNING  Not Found: /home/ai_tool_detail/
+2024-08-09 00:46:51,609 django.request WARNING  Not Found: /home/get_recommendations/
+2024-08-09 00:46:57,427 django.request WARNING  Not Found: /home/get_recommendations
+2024-08-09 01:08:31,088 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-09 01:08:33,135 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 20:02:42,503 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 20:02:59,956 django.request WARNING  Not Found: /favicon.ico
+2024-08-09 20:03:11,302 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:17,158 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:18,026 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:18,300 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:18,526 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:18,709 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:18,910 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:19,127 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:22,030 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:22,263 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:22,497 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:23,474 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:23,665 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:23,929 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:24,058 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:24,234 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:24,432 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:24,616 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:24,799 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:24,983 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:26,969 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:27,448 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:27,803 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:28,087 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:28,337 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:28,571 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:28,888 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:29,252 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:29,658 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:29,959 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:30,204 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:03:30,413 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:04:27,736 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:04:27,953 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:04:28,125 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:04:28,303 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:04:28,862 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:04:29,038 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:04:29,204 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:08:55,135 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 20:10:02,905 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:10:04,307 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:10:05,727 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:10:06,189 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:10:06,427 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:11:35,559 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:11:36,125 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:11:36,460 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:11:36,743 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:11:37,593 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:11:37,961 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:11:38,281 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:11:38,599 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:11:38,905 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:11:39,492 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:11:39,866 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:11:40,229 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:11:40,531 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:11:41,130 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:11:41,453 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:11:41,705 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:12:28,717 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:12:30,152 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:12:30,569 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:12:30,919 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:12:31,186 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:12:31,487 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:12:31,871 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:12:42,391 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:22:00,025 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:30:24,293 django.request WARNING  Not Found: /recommendation/{% url 'get_recommendations' %}
+2024-08-09 20:40:00,090 django.security.csrf WARNING  Forbidden (CSRF token from POST has incorrect length.): /get_recommendations/
+2024-08-09 20:40:02,075 django.security.csrf WARNING  Forbidden (CSRF token from POST has incorrect length.): /get_recommendations/
+2024-08-09 20:40:02,678 django.security.csrf WARNING  Forbidden (CSRF token from POST has incorrect length.): /get_recommendations/
+2024-08-09 20:40:02,928 django.security.csrf WARNING  Forbidden (CSRF token from POST has incorrect length.): /get_recommendations/
+2024-08-09 20:40:03,159 django.security.csrf WARNING  Forbidden (CSRF token from POST has incorrect length.): /get_recommendations/
+2024-08-09 20:40:05,013 django.security.csrf WARNING  Forbidden (CSRF token from POST has incorrect length.): /get_recommendations/
+2024-08-09 20:40:46,784 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 20:41:09,919 django.security.csrf WARNING  Forbidden (CSRF token from POST has incorrect length.): /get_recommendations/
+2024-08-09 20:41:22,943 django.security.csrf WARNING  Forbidden (CSRF token from POST has incorrect length.): /get_recommendations/
+2024-08-09 20:47:25,140 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 21:19:09,485 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 21:23:49,185 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\aiToolsNavigator\settings.py changed, reloading.
+2024-08-09 21:24:20,373 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 21:31:51,434 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\aiToolsNavigator\settings.py changed, reloading.
+2024-08-09 21:31:52,945 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 21:43:13,762 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 21:49:50,432 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 23:07:27,582 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 23:07:46,113 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 19, in home
+    return render(request, 'home/home.html',data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'get_tool_details' not found. 'get_tool_details' is not a valid view function or pattern name.
+2024-08-09 23:09:58,085 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 19, in home
+    return render(request, 'home/home.html',data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'ai_tool_detail' with no arguments not found. 1 pattern(s) tried: ['ai_tool/(?P<pk>[0-9]+)/\\Z']
+2024-08-09 23:23:23,761 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 23:30:01,197 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 23:45:48,004 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 23:46:22,686 django.request WARNING  Not Found: /update_view_count/undefined/
+2024-08-09 23:54:43,458 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 23:56:43,036 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-09 23:56:44,420 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 23:57:09,055 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 23:57:28,553 django.request ERROR    Internal Server Error: /ai_tool/1/
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 172, in ai_tool_detail
+    return render(request, 'home/ai_tool_detail.html',tool)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\backends\django.py", line 57, in render
+    context = make_context(
+              ^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\context.py", line 286, in make_context
+    raise TypeError(
+TypeError: context must be a dict rather than MasterData.
+2024-08-09 23:57:37,665 django.request WARNING  Not Found: /update_view_count/undefined/
+2024-08-09 23:57:40,133 django.request ERROR    Internal Server Error: /ai_tool/1/
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 172, in ai_tool_detail
+    return render(request, 'home/ai_tool_detail.html',tool)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\backends\django.py", line 57, in render
+    context = make_context(
+              ^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\context.py", line 286, in make_context
+    raise TypeError(
+TypeError: context must be a dict rather than MasterData.
+2024-08-09 23:57:41,603 django.request WARNING  Not Found: /update_view_count/undefined/
+2024-08-09 23:58:21,327 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-09 23:58:37,512 django.request ERROR    Internal Server Error: /ai_tool/1/
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 172, in ai_tool_detail
+    return render(request, 'home/ai_tool_detail.html',tool)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\backends\django.py", line 57, in render
+    context = make_context(
+              ^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\context.py", line 286, in make_context
+    raise TypeError(
+TypeError: context must be a dict rather than MasterData.
+2024-08-09 23:58:49,694 django.request WARNING  Not Found: /update_view_count/undefined/
+2024-08-09 23:58:52,014 django.request ERROR    Internal Server Error: /ai_tool/1/
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 172, in ai_tool_detail
+    return render(request, 'home/ai_tool_detail.html',tool)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\backends\django.py", line 57, in render
+    context = make_context(
+              ^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\context.py", line 286, in make_context
+    raise TypeError(
+TypeError: context must be a dict rather than MasterData.
+2024-08-09 23:58:53,115 django.request WARNING  Not Found: /update_view_count/undefined/
+2024-08-09 23:58:54,299 django.request ERROR    Internal Server Error: /ai_tool/1/
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 172, in ai_tool_detail
+    return render(request, 'home/ai_tool_detail.html',tool)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\backends\django.py", line 57, in render
+    context = make_context(
+              ^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\context.py", line 286, in make_context
+    raise TypeError(
+TypeError: context must be a dict rather than MasterData.
+2024-08-09 23:58:55,669 django.request WARNING  Not Found: /update_view_count/undefined/
+2024-08-09 23:59:55,933 django.request ERROR    Internal Server Error: /ai_tool/1/
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 172, in ai_tool_detail
+    return render(request, 'home/ai_tool_detail.html',tool)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\backends\django.py", line 57, in render
+    context = make_context(
+              ^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\template\context.py", line 286, in make_context
+    raise TypeError(
+TypeError: context must be a dict rather than MasterData.
+2024-08-09 23:59:57,257 django.request WARNING  Not Found: /update_view_count/undefined/
+2024-08-10 00:00:12,491 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-10 00:00:13,995 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-10 00:01:56,033 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-10 00:01:57,406 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-10 00:02:30,671 django.request WARNING  Not Found: /update_view_count/undefined/
+2024-08-10 00:05:15,417 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-10 00:06:07,048 django.request WARNING  Not Found: /update_view_count/undefined/
+2024-08-10 00:09:04,731 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-10 00:09:43,507 django.request WARNING  Not Found: /update_view_count/undefined/
+2024-08-10 00:19:00,341 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-10 00:19:56,416 django.request WARNING  Not Found: /update_view_count/undefined/
+2024-08-10 00:26:20,056 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-10 00:31:59,605 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-10 00:32:29,215 django.request WARNING  Not Found: /update_view_count/undefined/
+2024-08-10 00:35:35,901 django.request WARNING  Not Found: /update_view_count/undefined/
+2024-08-10 00:37:01,652 django.request WARNING  Not Found: /update_view_count/undefined/
+2024-08-10 00:38:34,831 django.request WARNING  Not Found: /update_view_count/undefined/
+2024-08-10 00:43:36,386 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-10 00:44:16,593 django.request WARNING  Not Found: /update_view_count//
+2024-08-10 00:49:31,048 django.utils.autoreload INFO     Watching for file changes with StatReloader
