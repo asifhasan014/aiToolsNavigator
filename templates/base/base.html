@@ -104,10 +104,7 @@
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="toolModalLabel">Tool Details</h5>
-                <!--                <button type="button" class="close" data-dismiss="modal" aria-label="Close">-->
-                <!--                    <span aria-hidden="true">&times;</span>-->
-                <!--                </button>-->
+                <h4 class="modal-title" id="toolModalLabel" style="text-align: center; width: 100%;">AI Tool Details</h4>
             </div>
             <div class="modal-body">
                 <!-- Tool details will be loaded here -->
@@ -144,9 +141,6 @@
 
     // Triggered when the modal is closed
     $('#toolModal').on('hide.bs.modal', function() {
-<!--        var toolId = $('#toolModal').find('.modal-body').data('Useable For'); // Get the tool ID again-->
-<!--        console.log("toolId");-->
-<!--        console.log(toolId);-->
         // Send an AJAX request to increase the view count
         $.ajax({
             url: "{% url 'update_view_count' pk=0 %}".replace("0", aiToolId),  // Replace 0 with the actual toolId

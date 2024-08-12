@@ -35,11 +35,17 @@ def prepareCardsData():
     distinct_usable_for = recomDataFrame['useable_for'].unique()
     num_distinct_usable_for = len(distinct_usable_for)
 
+    max_view_row = masterDataFrame.loc[masterDataFrame['view_count'].idxmax()]
+    max_tool_name = max_view_row['ai_tool_name']
+    max_view_count = max_view_row['view_count']
+
     data = {
         'ai_tools' : querysetForMasterData,
         'ai_tool_count': num_ai_tools,
         'major_category_count': num_distinct_categories,
-        'useable_for': num_distinct_usable_for
+        'useable_for': num_distinct_usable_for,
+        'max_tool_name': max_tool_name,
+        'max_view_count': max_view_count
     }
     return data
 
