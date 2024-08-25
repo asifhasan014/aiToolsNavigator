@@ -54,7 +54,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'ai_toolset_navigator',
         'USER': 'root',
-        'PASSWORD': '@sifHasan2013',
+        'PASSWORD': 'Khilwath@23',
         'HOST':'localhost',
         'PORT':'3306',
         'OPTIONS': {
