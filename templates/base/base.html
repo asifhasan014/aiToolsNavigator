@@ -119,42 +119,39 @@
 <script>
     $(document).ready(function() {
 
-    // Triggered when the modal is about to be shown
-    var aiToolId = 0;
-    $('#toolModal').on('show.bs.modal', function(event) {
-        console.log("modal is being called");
-        var button = $(event.relatedTarget); // Button that triggered the modal
-        var toolId = button.data('id'); // Extract info from data-* attributes
-        aiToolId = toolId;
-        // Load the tool details via AJAX
-        $.ajax({
-            url: "{% url 'ai_tool_detail' pk=0 %}".replace("0", toolId),  // Replace 0 with the actual toolId
-            type: "GET",
-            success: function(data) {
-                console.log("GET Method is called");
-                // Populate the modal with the tool details
-                $('#toolModal .modal-body').html(data);
-                console.log("GET Method data binding");
-            }
+        // Triggered when the modal is about to be shown
+        $('#toolModal').on('show.bs.modal', function(event) {
+            console.log("modal is being called");
+            var button = $(event.relatedTarget); // Button that triggered the modal
+            var toolId = button.data('id'); // Extract info from data-* attributes
+            // Load the tool details via AJAX
+            $.ajax({
+                url: "{% url 'ai_tool_detail' pk=0 %}".replace("0", toolId),  // Replace 0 with the actual toolId
+                type: "GET",
+                success: function(data) {
+                    console.log("GET Method is called");
+                    // Populate the modal with the tool details
+                    $('#toolModal .modal-body').html(data);
+                    console.log("GET Method data binding");
+
+                    // Attach click event handler to the tool link
+                    $('#toolModal a.tool-link').off('click').on('click', function() {
+                        // Send an AJAX request to increase the view count
+                        $.ajax({
+                            url: "{% url 'update_view_count' pk=0 %}".replace("0", toolId),  // Replace 0 with the actual toolId
+                            type: "POST",
+                            data: {
+                                'csrfmiddlewaretoken': '{{ csrf_token }}'  // CSRF token for POST request
+                            },
+                            success: function(response) {
+                                console.log("View count increased successfully.");
+                            }
+                        });
+                    });
+                }
+            });
         });
     });
-
-    // Triggered when the modal is closed
-    $('#toolModal').on('hide.bs.modal', function() {
-        // Send an AJAX request to increase the view count
-        $.ajax({
-            url: "{% url 'update_view_count' pk=0 %}".replace("0", aiToolId),  // Replace 0 with the actual toolId
-            type: "POST",
-            data: {
-                'csrfmiddlewaretoken': '{{ csrf_token }}'  // CSRF token for POST request
-            },
-            success: function(response) {
-                console.log("View count increased successfully.");
-            }
-        });
-    });
-});
-
 </script>
 
 </body>

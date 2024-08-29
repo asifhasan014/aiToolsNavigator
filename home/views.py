@@ -179,8 +179,11 @@ def ai_tool_detail(request, pk):
 
 def update_view_count(request, pk):
     if request.method == 'POST':
-        tool = get_object_or_404(MasterData, pk=pk)
-        tool.view_count += 1
-        tool.save()
-        return JsonResponse({'status': 'success', 'view_count': tool.view_count})
-    return JsonResponse({'status': 'failed'})
+        try:
+            tool = MasterData.objects.get(pk=pk)
+            tool.view_count += 1
+            tool.save()
+            return JsonResponse({'success': True})
+        except MasterData.DoesNotExist:
+            return JsonResponse({'success': False, 'error': 'Tool not found'})
+    return JsonResponse({'success': False, 'error': 'Invalid request'})
