@@ -2619,3 +2619,6 @@ TypeError: context must be a dict rather than MasterData.
 2024-08-30 08:21:05,720 django.request WARNING  Not Found: /favicon.ico
 2024-08-30 08:45:04,228 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
 2024-08-30 08:45:09,158 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 09:51:08,689 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-30 09:51:12,479 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 09:51:28,784 django.utils.autoreload INFO     Watching for file changes with StatReloader

@@ -68,6 +68,40 @@
             </div>
         </div>
     </div>
+    <div class="row d-flex align-items-stretch">
+        <div class="col-xl-8">
+            <div class="card mb-4 h-100"> <!-- Added h-100 -->
+                <div class="card-header">
+                    <i class="fas fa-chart-pie me-1"></i>
+                    Pie Chart Example
+                </div>
+                <div class="card-body">
+                    <canvas id="myPieChart" width="100%" height="50"></canvas>
+                </div>
+<!--                <div class="card-footer small text-muted">Updated yesterday at 11:59 PM</div>-->
+            </div>
+        </div>
+        <div class="col-xl-4">
+            <div class="card mb-4 h-100"> <!-- Added h-100 -->
+                <div class="card-header">
+                    <i class="fas fa-chart-pie me-1"></i>
+                    Filter Pie Chart By Major Categories
+                </div>
+                <div class="card-body">
+                    {% for category in major_categories %}
+                    <div>
+                        <!-- Radio button for selecting major category -->
+                        <input type="radio" name="major_category" value="{{ category }}"
+                               id="category_{{ forloop.counter }}">
+                        <label for="category_{{ forloop.counter }}">{{ category }}</label>
+                    </div>
+                    {% endfor %}
+                </div>
+<!--                <div class="card-footer small text-muted">Updated yesterday at 11:59 PM</div>-->
+            </div>
+        </div>
+    </div>
+    <br>
     <div class="card mb-4">
         <div class="card-header">
             <i class="fas fa-table me-1"></i>

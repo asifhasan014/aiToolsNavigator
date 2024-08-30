@@ -42,6 +42,7 @@ def prepareCardsData():
     data = {
         'ai_tools' : querysetForMasterData,
         'ai_tool_count': num_ai_tools,
+        'major_categories': distinct_categories,
         'major_category_count': num_distinct_categories,
         'useable_for': num_distinct_usable_for,
         'max_tool_name': max_tool_name,
