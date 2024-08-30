@@ -2622,3 +2622,83 @@ TypeError: context must be a dict rather than MasterData.
 2024-08-30 09:51:08,689 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
 2024-08-30 09:51:12,479 django.utils.autoreload INFO     Watching for file changes with StatReloader
 2024-08-30 09:51:28,784 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 11:38:33,964 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-30 11:38:38,330 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 11:38:53,330 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-30 11:38:54,850 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 11:45:29,951 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-30 11:45:31,830 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 11:50:58,370 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-30 11:51:00,153 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 11:52:32,383 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-30 11:52:35,418 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 11:53:22,887 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-30 11:53:25,289 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 11:56:03,913 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 12:02:20,063 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-30 12:02:23,432 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 12:02:38,028 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 12:16:46,781 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 17:40:02,937 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 17:40:37,156 django.request WARNING  Not Found: /favicon.ico
+2024-08-30 17:48:09,587 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 17:51:46,835 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 17:52:56,790 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 17:56:42,073 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 18:07:07,881 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 18:16:58,200 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 18:25:52,140 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 18:30:39,020 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 18:32:51,946 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-30 18:38:36,787 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 06:47:05,345 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 06:47:25,249 django.request WARNING  Not Found: /favicon.ico
+2024-08-31 07:32:07,744 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-31 07:32:10,812 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 07:35:44,519 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-31 07:35:46,038 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 07:48:30,809 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 07:48:36,506 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 17, in home
+    data = prepareCardsData()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 57, in prepareCardsData
+    'tool_count_by_payment_condition': json.dumps(countByPaymentCondition),
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type DataFrame is not JSON serializable
+2024-08-31 07:50:12,828 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-08-31 07:50:14,414 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 07:50:21,024 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 07:56:45,570 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 07:57:59,324 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 08:10:24,455 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 08:16:15,408 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 08:19:05,497 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 08:20:58,334 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 08:24:03,348 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 08:28:43,165 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 08:30:26,932 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 08:37:02,678 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 08:40:21,488 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 08:41:43,598 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 08:44:45,648 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 08:47:01,143 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-08-31 08:50:18,604 django.utils.autoreload INFO     Watching for file changes with StatReloader

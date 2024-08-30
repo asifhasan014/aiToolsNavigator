@@ -4,6 +4,7 @@ from django.http import JsonResponse
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from .models import MasterData, RecommendationData
+import json
 import pandas as pd
 
 def home(request):
@@ -39,6 +40,12 @@ def prepareCardsData():
     max_tool_name = max_view_row['ai_tool_name']
     max_view_count = max_view_row['view_count']
 
+    toolCountByCategory = masterDataFrame.groupby('major_category').size().reset_index(name='tool_count')
+    toolCountByCategory = toolCountByCategory.to_dict(orient='records')
+
+    countByPaymentCondition = masterDataFrame.groupby('payment_condition').size().reset_index(name='value_count')
+    countByPaymentCondition = countByPaymentCondition.to_dict(orient='records')
+
     data = {
         'ai_tools' : querysetForMasterData,
         'ai_tool_count': num_ai_tools,
@@ -46,7 +53,9 @@ def prepareCardsData():
         'major_category_count': num_distinct_categories,
         'useable_for': num_distinct_usable_for,
         'max_tool_name': max_tool_name,
-        'max_view_count': max_view_count
+        'max_view_count': max_view_count,
+        'tool_count_by_category': json.dumps(toolCountByCategory),
+        'tool_count_by_payment_condition': json.dumps(countByPaymentCondition),
     }
     return data
 

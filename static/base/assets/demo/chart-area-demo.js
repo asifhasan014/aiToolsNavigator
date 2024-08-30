@@ -1,54 +1,153 @@
-// Set new default font family and font color to mimic Bootstrap's default styling
-Chart.defaults.global.defaultFontFamily = '-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif';
-Chart.defaults.global.defaultFontColor = '#292b2c';
+document.addEventListener('DOMContentLoaded', function () {
+  // Set default font settings
+  if (Chart.defaults && Chart.defaults.font) {
+    Chart.defaults.font.family = '-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif';
+    Chart.defaults.font.color = '#292b2c';
+  } else {
+    console.error('Chart.defaults.font is undefined');
+  }
 
-// Area Chart Example
-var ctx = document.getElementById("myAreaChart");
-var myLineChart = new Chart(ctx, {
-  type: 'line',
-  data: {
-    labels: ["Mar 1", "Mar 2", "Mar 3", "Mar 4", "Mar 5", "Mar 6", "Mar 7", "Mar 8", "Mar 9", "Mar 10", "Mar 11", "Mar 12", "Mar 13"],
-    datasets: [{
-      label: "Sessions",
-      lineTension: 0.3,
-      backgroundColor: "rgba(2,117,216,0.2)",
-      borderColor: "rgba(2,117,216,1)",
-      pointRadius: 5,
-      pointBackgroundColor: "rgba(2,117,216,1)",
-      pointBorderColor: "rgba(255,255,255,0.8)",
-      pointHoverRadius: 5,
-      pointHoverBackgroundColor: "rgba(2,117,216,1)",
-      pointHitRadius: 50,
-      pointBorderWidth: 2,
-      data: [10000, 30162, 26263, 18394, 18287, 28682, 31274, 33259, 25849, 24159, 32651, 31984, 38451],
-    }],
-  },
-  options: {
-    scales: {
-      xAxes: [{
-        time: {
-          unit: 'date'
+  // Simulated data from the backend
+//  var toolCountByCategory = [
+//    {
+//      "payment_condition": "Contact for Pricing",
+//      "value_count": 325
+//    },
+//    {
+//      "payment_condition": "Deals",
+//      "value_count": 1
+//    },
+//    {
+//      "payment_condition": "Free",
+//      "value_count": 1704
+//    },
+//    {
+//      "payment_condition": "Free Trial",
+//      "value_count": 771
+//    },
+//    {
+//      "payment_condition": "Free | Freemium | Paid",
+//      "value_count": 1
+//    },
+//    {
+//      "payment_condition": "Free | Paid",
+//      "value_count": 1
+//    },
+//    {
+//      "payment_condition": "Free-Trial | Deals",
+//      "value_count": 3
+//    },
+//    {
+//      "payment_condition": "Free-Trial | Freemium",
+//      "value_count": 8
+//    },
+//    {
+//      "payment_condition": "Free-Trial | Paid",
+//      "value_count": 8
+//    },
+//    {
+//      "payment_condition": "FreeDeals",
+//      "value_count": 1
+//    },
+//    {
+//      "payment_condition": "FreeFreemium",
+//      "value_count": 1
+//    },
+//    {
+//      "payment_condition": "Freemium",
+//      "value_count": 1284
+//    },
+//    {
+//      "payment_condition": "Freemium | Deals",
+//      "value_count": 8
+//    },
+//    {
+//      "payment_condition": "Freemium | Free",
+//      "value_count": 1
+//    },
+//    {
+//      "payment_condition": "Freemium | Free-Trial",
+//      "value_count": 15
+//    },
+//    {
+//      "payment_condition": "Freemium |Contact for Pricing",
+//      "value_count": 1
+//    },
+//    {
+//      "payment_condition": "Paid",
+//      "value_count": 832
+//    },
+//    {
+//      "payment_condition": "Paid | Deals",
+//      "value_count": 1
+//    },
+//    {
+//      "payment_condition": "Paid |Free-Trial",
+//      "value_count": 3
+//    }
+//  ];
+
+  // Prepare labels and data from the backend
+  var labels = countByPaymentCondition.map(function (item) {
+    return item.payment_condition;  // Use the correct property
+  });
+
+  var data = countByPaymentCondition.map(function (item) {
+    return item.value_count;  // Use the correct property
+  });
+
+  // Create the chart
+  var ctx = document.getElementById("myAreaChart");
+  if (ctx) {
+    var myLineChart = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: labels,
+        datasets: [{
+          label: "Tool Count by Payment Condition",
+          lineTension: 0.3,
+          backgroundColor: "rgba(2,117,216,0.2)",
+          borderColor: "rgba(2,117,216,1)",
+          pointRadius: 5,
+          pointBackgroundColor: "rgba(2,117,216,1)",
+          pointBorderColor: "rgba(255,255,255,0.8)",
+          pointHoverRadius: 5,
+          pointHoverBackgroundColor: "rgba(2,117,216,1)",
+          pointHitRadius: 50,
+          pointBorderWidth: 2,
+          data: data,
+        }],
+      },
+      options: {
+        scales: {
+          x: {
+            type: 'category', // Use 'category' for non-time-based data
+            grid: {
+              display: false
+            },
+            ticks: {
+              maxTicksLimit: labels.length // Adjust based on your label count
+            }
+          },
+          y: {
+            beginAtZero: true,
+            suggestedMax: Math.max(...data) + 500,
+            ticks: {
+              maxTicksLimit: 5
+            },
+            grid: {
+              color: "rgba(0, 0, 0, .125)"
+            }
+          }
         },
-        gridLines: {
-          display: false
-        },
-        ticks: {
-          maxTicksLimit: 7
+        plugins: {
+          legend: {
+            display: false
+          }
         }
-      }],
-      yAxes: [{
-        ticks: {
-          min: 0,
-          max: 40000,
-          maxTicksLimit: 5
-        },
-        gridLines: {
-          color: "rgba(0, 0, 0, .125)",
-        }
-      }],
-    },
-    legend: {
-      display: false
-    }
+      }
+    });
+  } else {
+    console.error("Canvas element with id 'myAreaChart' not found.");
   }
 });
