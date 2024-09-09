@@ -7,6 +7,7 @@ from .models import MasterData, RecommendationData
 import json
 import pandas as pd
 
+GLOBAL_DF = pd.DataFrame()
 def home(request):
     allMasterData = MasterData.objects.all()
     size = allMasterData.count()
@@ -20,11 +21,12 @@ def home(request):
     return render(request, 'home/home.html',data)
 
 def prepareCardsData():
+    global GLOBAL_DF
     querysetForMasterData = MasterData.objects.all()
     masterDataFrame = pd.DataFrame(list(querysetForMasterData.values()))
 
     querysetForRecomData = RecommendationData.objects.all()
-    recomDataFrame = pd.DataFrame(list(querysetForRecomData.values()))
+    GLOBAL_DF = pd.DataFrame(list(querysetForRecomData.values()))
 
     data = {}
     distinct_ai_tools = masterDataFrame['ai_tool_name'].unique()
@@ -33,7 +35,7 @@ def prepareCardsData():
     distinct_categories = masterDataFrame['major_category'].unique()
     num_distinct_categories = len(distinct_categories)
 
-    distinct_usable_for = recomDataFrame['useable_for'].unique()
+    distinct_usable_for = GLOBAL_DF['useable_for'].unique()
     num_distinct_usable_for = len(distinct_usable_for)
 
     max_view_row = masterDataFrame.loc[masterDataFrame['view_count'].idxmax()]
@@ -46,6 +48,9 @@ def prepareCardsData():
     countByPaymentCondition = masterDataFrame.groupby('payment_condition').size().reset_index(name='value_count')
     countByPaymentCondition = countByPaymentCondition.to_dict(orient='records')
 
+    countForPieChart = GLOBAL_DF[GLOBAL_DF['major_category'] == 'other'].groupby('useable_for').size().reset_index(name='occurrence_count')
+    countForPieChart = countForPieChart.to_dict(orient='records')
+
     data = {
         'ai_tools' : querysetForMasterData,
         'ai_tool_count': num_ai_tools,
@@ -56,6 +61,8 @@ def prepareCardsData():
         'max_view_count': max_view_count,
         'tool_count_by_category': json.dumps(toolCountByCategory),
         'tool_count_by_payment_condition': json.dumps(countByPaymentCondition),
+        'count_for_pie_chart': json.dumps(countForPieChart),
+        'checked': 'other',
     }
     return data
 
@@ -92,7 +99,7 @@ def insertDataIntoRecommTable():
     df = pd.DataFrame(list(queryset.values()))
 
     # Drop unnecessary columns
-    df.drop(['payment_condition', 'charges', 'review', 'tool_link', 'major_category'], axis=1, inplace=True)
+    df.drop(['payment_condition', 'charges', 'review', 'tool_link'], axis=1, inplace=True)
 
     # Verify the data before splitting
     print("DataFrame before splitting 'useable_for':")
@@ -113,7 +120,8 @@ def insertDataIntoRecommTable():
             ai_tool_name=row['ai_tool_name'],
             descriptions=row['descriptions'],
             useable_for=row['useable_for'],
-            master_data=master_data_instance  # Assign the instance, not just the ID
+            master_data=master_data_instance,
+            major_category=row['major_category'],
         )
 
 

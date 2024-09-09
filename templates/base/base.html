@@ -98,6 +98,8 @@
   console.log(toolCountByCategory)
   var countByPaymentCondition = JSON.parse('{{ tool_count_by_payment_condition|escapejs }}');
   console.log(countByPaymentCondition)
+  var countForPieChart = JSON.parse('{{ count_for_pie_chart|escapejs }}');
+  console.log(countForPieChart)
 </script>
 <script src="{% static 'base/assets/demo/chart-area-demo.js' %}"></script>
 <script src="{% static 'base/assets/demo/chart-bar-demo.js' %}"></script>

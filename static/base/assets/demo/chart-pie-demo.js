@@ -1,16 +1,55 @@
-// Set new default font family and font color to mimic Bootstrap's default styling
-Chart.defaults.global.defaultFontFamily = '-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif';
-Chart.defaults.global.defaultFontColor = '#292b2c';
+document.addEventListener('DOMContentLoaded', function () {
+  // Set default font settings
+  if (Chart.defaults && Chart.defaults.font) {
+    Chart.defaults.font.family = '-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif';
+    Chart.defaults.font.color = '#292b2c';
+  } else {
+    console.error('Chart.defaults.font is undefined');
+  }
+  // Prepare labels and data from the backend
+  var labels = countForPieChart.map(function (item) {
+    return item.useable_for;
+  });
 
-// Pie Chart Example
-var ctx = document.getElementById("myPieChart");
-var myPieChart = new Chart(ctx, {
-  type: 'pie',
-  data: {
-    labels: ["Blue", "Red", "Yellow", "Green"],
-    datasets: [{
-      data: [12.21, 15.58, 11.25, 8.32],
-      backgroundColor: ['#007bff', '#dc3545', '#ffc107', '#28a745'],
-    }],
-  },
+  var data = countForPieChart.map(function (item) {
+    return item.occurrence_count;
+  });
+
+  // Function to generate random colors
+  function getRandomColor() {
+    var letters = '0123456789ABCDEF';
+    var color = '#';
+    for (var i = 0; i < 6; i++) {
+      color += letters[Math.floor(Math.random() * 16)];
+    }
+    return color;
+  }
+
+  // Generate a color for each data point
+  var chartColors = labels.map(() => getRandomColor());
+
+  // Create the pie chart
+  var ctx = document.getElementById("myPieChart");
+  if (ctx) {
+    var myPieChart = new Chart(ctx, {
+      type: 'pie',
+      data: {
+        labels: labels,
+        datasets: [{
+          data: data,
+          backgroundColor: chartColors,
+        }],
+      },
+      options: {
+        plugins: {
+          legend: {
+            display: true,
+            position: 'top'
+          }
+        }
+      }
+    });
+  } else {
+    console.error("Canvas element with id 'myPieChart' not found.");
+  }
 });

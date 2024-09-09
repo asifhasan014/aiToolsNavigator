@@ -2702,3 +2702,63 @@ TypeError: Object of type DataFrame is not JSON serializable
 2024-08-31 08:44:45,648 django.utils.autoreload INFO     Watching for file changes with StatReloader
 2024-08-31 08:47:01,143 django.utils.autoreload INFO     Watching for file changes with StatReloader
 2024-08-31 08:50:18,604 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-09-02 14:45:24,894 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-09-02 14:45:46,806 django.request WARNING  Not Found: /favicon.ico
+2024-09-02 14:51:30,386 django.request WARNING  Not Found: /get_recommendations/
+2024-09-02 14:52:06,406 django.request WARNING  Not Found: /get_recommendations/
+2024-09-02 23:28:25,847 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\models.py changed, reloading.
+2024-09-02 23:28:29,664 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-09-02 23:38:54,702 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-09-02 23:40:18,427 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-09-02 23:40:26,832 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-09-03 00:14:55,908 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-09-03 00:14:58,919 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-09-03 00:16:12,478 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-09-03 00:16:13,842 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-09-03 00:18:31,186 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-09-03 00:18:32,777 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-09-03 00:20:31,392 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-09-03 00:20:32,944 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-09-03 00:21:32,269 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-09-03 00:21:34,459 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-09-03 00:22:16,309 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-09-03 00:22:17,741 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-09-03 00:22:58,643 django.request WARNING  Not Found: /get_recommendations/
+2024-09-03 00:24:28,010 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-09-03 01:41:56,235 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-09-03 01:41:59,285 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-09-03 01:56:26,322 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-09-03 01:57:08,854 django.request ERROR    Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 18, in home
+    data = prepareCardsData()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py", line 63, in prepareCardsData
+    'count_for_pie_chart': json.dumps(countForPieChart),
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type DataFrame is not JSON serializable
+2024-09-03 01:58:21,528 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
+2024-09-03 01:58:22,836 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-09-03 01:58:27,342 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-09-03 02:13:10,645 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-09-09 15:04:06,585 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-09-09 15:04:45,699 django.request WARNING  Not Found: /favicon.ico
+2024-09-09 15:37:40,405 django.request WARNING  Not Found: /favicon.ico
+2024-09-09 21:42:18,302 django.utils.autoreload INFO     C:\Users\asifh\OneDrive\Desktop\study\691\projects\aiToolsNavigator\home\views.py changed, reloading.
