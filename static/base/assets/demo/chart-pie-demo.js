@@ -1,20 +1,4 @@
 document.addEventListener('DOMContentLoaded', function () {
-  // Set default font settings
-  if (Chart.defaults && Chart.defaults.font) {
-    Chart.defaults.font.family = '-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif';
-    Chart.defaults.font.color = '#292b2c';
-  } else {
-    console.error('Chart.defaults.font is undefined');
-  }
-  // Prepare labels and data from the backend
-  var labels = countForPieChart.map(function (item) {
-    return item.useable_for;
-  });
-
-  var data = countForPieChart.map(function (item) {
-    return item.occurrence_count;
-  });
-
   // Function to generate random colors
   function getRandomColor() {
     var letters = '0123456789ABCDEF';
@@ -25,18 +9,72 @@ document.addEventListener('DOMContentLoaded', function () {
     return color;
   }
 
-  // Generate a color for each data point
-  var chartColors = labels.map(() => getRandomColor());
+  function updatePieChart(selectedCategory) {
+    var csrfTokenElement = document.querySelector('[name=csrfmiddlewaretoken]');
+    if (!csrfTokenElement) {
+      console.error("CSRF token element not found.");
+      return;
+    }
 
-  // Create the pie chart
-  var ctx = document.getElementById("myPieChart");
-  if (ctx) {
-    var myPieChart = new Chart(ctx, {
+    var csrfToken = csrfTokenElement.value;
+
+    $.ajax({
+      url: document.getElementById("pieChartContainer").getAttribute("data-update-url"),
+      type: "POST",
+      data: {
+        'major_category': selectedCategory,
+        'csrfmiddlewaretoken': csrfToken
+      },
+      success: function (response) {
+        // Ensure response is in the expected format
+        //        if (!response.useable_for || !response.occurrence_count) {
+        //          console.error('Unexpected response format:', response);
+        //          return;
+        //        }
+        let responseData = response.count_for_pie_chart;
+        let chartData = {
+          useable_for: responseData.map(item => item.useable_for),
+          occurrence_count: responseData.map(item => item.occurrence_count),
+        };
+        renderPieChart(chartData);
+      },
+      error: function (xhr, status, error) {
+        console.error("Error updating pie chart:", error);
+      }
+    });
+  }
+
+  // Function to render the pie chart
+  function renderPieChart(data) {
+    var ctx = document.getElementById("myPieChart");
+
+    if (window.myPieChart && typeof window.myPieChart.destroy === 'function') {
+      window.myPieChart.destroy();
+    }
+
+    // Log data to check its structure
+    console.log('Data received for chart:', data);
+
+    // Ensure data.labels and data.counts are defined and are arrays
+    if (!Array.isArray(data.useable_for) || !Array.isArray(data.occurrence_count)) {
+      console.error('Invalid data structure for pie chart.');
+      return;
+    }
+
+    // Ensure labels and counts have the same length
+    if (data.useable_for.length !== data.occurrence_count.length) {
+      console.error('Labels and counts arrays must have the same length.');
+      return;
+    }
+
+    var chartColors = data.useable_for.map(() => getRandomColor());
+
+    window.myPieChart = new Chart(ctx, {
       type: 'pie',
       data: {
-        labels: labels,
+        labels: data.useable_for,
         datasets: [{
-          data: data,
+          data: data.occurrence_count,
           backgroundColor: chartColors,
         }],
       },
@@ -49,7 +87,20 @@ document.addEventListener('DOMContentLoaded', function () {
         }
       }
     });
-  } else {
-    console.error("Canvas element with id 'myPieChart' not found.");
   }
+
+  // Initialize the chart with default data
+  var initialData = {
+    useable_for: countForPieChart.map(item => item.useable_for),
+    occurrence_count: countForPieChart.map(item => item.occurrence_count),
+  };
+  renderPieChart(initialData);
+
+  // Attach event listeners to category radio buttons
+  var categoryRadios = document.querySelectorAll('input[name="major_category"]');
+  categoryRadios.forEach(function (radio) {
+    radio.addEventListener('change', function () {
+      updatePieChart(this.value);
+    });
+  });
 });

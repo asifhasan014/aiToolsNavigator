@@ -62,7 +62,7 @@ def prepareCardsData():
         'tool_count_by_category': json.dumps(toolCountByCategory),
         'tool_count_by_payment_condition': json.dumps(countByPaymentCondition),
         'count_for_pie_chart': json.dumps(countForPieChart),
-        'checked': 'other',
+        'checkedVal': 'other',
     }
     return data
 
@@ -205,3 +205,22 @@ def update_view_count(request, pk):
         except MasterData.DoesNotExist:
             return JsonResponse({'success': False, 'error': 'Tool not found'})
     return JsonResponse({'success': False, 'error': 'Invalid request'})
+
+def update_pie_chart(request):
+    if request.method == 'POST':
+        selected_category = request.POST.get('major_category')  # No default 'other' here, depends on frontend
+
+        if not selected_category:  # Handle if no category is provided
+            return JsonResponse({"error": "Category not provided"}, status=400)
+
+        # Filter the data for the selected category
+        countForPieChart = GLOBAL_DF[GLOBAL_DF['major_category'] == selected_category].groupby('useable_for').size().reset_index(name='occurrence_count')
+        countForPieChart = countForPieChart.to_dict(orient='records')
+
+        # Return the new pie chart data with the same format as prepareCardsData
+        return JsonResponse({
+            'count_for_pie_chart': countForPieChart,
+            'checkedVal': selected_category  # Ensure consistency
+        }, status=200)
+
+    return JsonResponse({"error": "Invalid request method"}, status=405)

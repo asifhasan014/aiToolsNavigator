@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function () {
       data: {
         labels: labels,
         datasets: [{
-          label: "Tool Count",
+          label: "Tool Count By Major Categories",
           backgroundColor: "rgba(2,117,216,1)",
           borderColor: "rgba(2,117,216,1)",
           data: data,
