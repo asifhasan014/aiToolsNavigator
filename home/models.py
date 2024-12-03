@@ -9,6 +9,7 @@ class MasterData(models.Model):
     review = models.CharField(max_length=255, blank=True, null=True)
     tool_link = models.TextField(blank=True, null=True)
     major_category = models.CharField(max_length=255, blank=True, null=True)
+    view_count = models.IntegerField(default=0)
 
     def __str__(self):
         return self.ai_tool_name
